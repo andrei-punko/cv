@@ -1,21 +1,13 @@
-# CV
 
-## Работа
+# CV and related stuff
 
-| Время         | Место              |
-|:--------------|:-------------------|
-| 2022 - сейчас | iTechArt           |
-| 2021 - 2022   | Artezio            |
-| 2017 - 2021   | Epam Systems       |
-| 2016 - 2017   | Godel Technologies |
-| 2011 - 2016   | Epam Systems       |
-| 2008 - 2011   | БМЦ                |
-| 2006 - 2011   | БГУИР              |
-| 2006 - 2007   | Linline            |
+## CV
+- [CV (eng)](CV/Andrei_Punko_CV_(eng).md)
+- [CV (rus)](CV/Andrei_Punko_CV_(rus).md)
 
-## Учеба
+## Answers to recruiter common questions
+- [Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
-| Время       | Место |
-|-------------|-------|
-| 2003 - 2006 | БГУИР |
-| 1998 - 2003 | БГУ   |
+## Newcomer introduction
+- [Newcomer introduction (eng)](./Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
+- [Newcomer introduction (rus)](./Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
