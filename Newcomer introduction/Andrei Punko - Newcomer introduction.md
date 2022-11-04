@@ -19,10 +19,11 @@ What about books - I prefer technical literature (related with my specialization
 and philosophical books (written by Eastern Orthodox fathers).
 
 What about programming:
-- used Basic and Pascal in childhood / early years (20-30 years ago),
-- used Pascal / C for modeling,
-- use Java as main language during last time (10+ years),
-- for some projects faced a bit with Groovy / Lua / Python / Go languages
+- used Basic in childhood / early years (before 1998),
+- used Pascal / C for modeling in university (1998-2011),
+- used C for microcontrollers programming (2008-2011),
+- use Java as main language during last time (2011-now),
+- for some projects faced a bit with Groovy / Lua / Python / Go / Kotlin languages
 - plan to use Kotlin instead of Java in future may be
 
 To stay healthy I usually use walks/swimming and (at winter) skiing.

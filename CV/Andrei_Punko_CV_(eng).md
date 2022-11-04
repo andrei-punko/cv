@@ -16,7 +16,7 @@ Likes clean code, refactoring, covers code with tests, writes documentation.
 - English - B1 (Intermediate)
 
 ## Key skills
-- Java 6-8/11 and a bit of: Groovy, Go, Kotlin
+- Java 6-8/11 and a bit of: Groovy, Go, Kotlin, Lua
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase/Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Amazon Aurora, Tarantool
@@ -63,7 +63,7 @@ Tasks performed:
 - Team Size (devs): 9 (half year), 3 (half year)
 
 Environment:
-- Java 11
+- Java 11, Lua
 - Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, JUnit, Mockito, Docker, Testcontainers
 - Gradle (composite build), TeamCity, Sonar
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
@@ -119,19 +119,19 @@ Environment:
 - Intellij IDEA, Postman, SoapUI, SQL Developer, DBeaver
 
 Tasks performed:
-- Requirements clarification
-- Documentation preparation
 - Design and implement REST APIs
+- Made DB performance optimizations
 - CI setup
 - Functional/Performance tests implementation
 - Demo preparation & demonstration
-- Made DB performance optimizations
-- Involved in migration from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
+- Documentation preparation
+- Involved in migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
 - Passed Corda certification
-- Development of Blockchain-based app prototypes
+- Developed several Blockchain-based application prototypes
 - Implemented integration with external Payment Authorization - API with security certificates support
 - Implemented batch jobs with required business logic
-- Development of tool to perform members migration from external system into existing loyalty system with applying to them benefits, tier-level changes etc. according to business rules
+- Development of tool to perform members migration from external system into existing loyalty system
+  with applying to them benefits, tier-level changes etc. according to business rules
 
 ## Godel technologies, November 2016 — February 2017 (4 months)
 - Position: Java Developer
@@ -153,21 +153,28 @@ Tasks performed:
 - Implemented new functionality
 
 ## Epam Systems, October 2011 — November 2016 (5 years 2 months)
-- Position: Senior Software Engineer
+- Position: (Junior → Middle → Senior) Software Engineer
+
+Customers/Projects:
+
 - Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
-- Project:  Development of loyalty system for hotels network
-- Team Size (devs): 40+
+  - Project: Development of loyalty system for hotels network
+  - Team Size (devs): 40+
+
+- Customer: -
+  - Project: Studying in Java-laboratory
+  - Team Size (devs): 1
 
 Environment:
 - Java 6/7, Apache CXF, Spring Framework, Apache Camel, Quartz, GWT
 - Oracle, JPA, Hibernate
 - Jenkins, Git, Maven
 - JMS, ActiveMQ
-- SoapUI, Eclipse, NetBeans, IntelliJ IDEA
+- SoapUI, NetBeans/Eclipse/IntelliJ IDEA
 - Rally, Bitbucket
 
 Tasks performed:
-- Implemented 10 required Java Lab tasks & bonus task - "Reversi" game
+- Implemented 10 required Java-laboratory tasks & bonus task - "Reversi" game
 - Fixed defects, implemented new functionality
 - Performed refactoring of existing legacy code
 - Design and development of several new features for existing loyalty system
