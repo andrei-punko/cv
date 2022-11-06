@@ -1,18 +1,21 @@
 
 ![image info](./images/Andrei_Punko_photo_informal_(forest).jpg)
 
-Andrei Punko
-
-- Position: Java backend developer
-- Location: Minsk, Belarus
+# Andrei Punko
 
 Senior Java backend developer with 11-years experience in creation of web- and distributed applications.
 Main technology stack – it's Java with standard set of frameworks for backend development.
 Likes clean code, refactoring, covers code with tests, writes documentation.
 
+## Contacts
+- Mail: `andd3dfx@gmail.com`
+- Telegram: `@andreipunko`
+- Skype: `andrei.punko`
+- Github: https://github.com/andrei-punko
+
 ## Education
-- Belorussian State University. Physical department.
-- Qualification «Physicist-Researcher», specialization «Physics of solids». 5 years of education.
+- Belorussian State University. Physical department. 5 years of education
+- Qualification «Physicist-Researcher», specialization «Physics of solids»
 - English - B1 (Intermediate)
 
 ## Key skills
@@ -33,6 +36,9 @@ Likes clean code, refactoring, covers code with tests, writes documentation.
 - Git, Gitlab, Bitbucket and partially: SVN, Perforce
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
+## Additional information
+- Location: Minsk, Belarus. Not interested in relocation
+- Likes: reading, coding and swimming
 
 ## Companies/projects
 
