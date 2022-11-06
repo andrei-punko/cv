@@ -1,5 +1,5 @@
 
-![image info](../resources/Andrei_Punko_photo_informal_(forest).jpg)
+![image info](./images/Andrei_Punko_photo_informal_(forest).jpg)
 
 Андрей Пунько
 
