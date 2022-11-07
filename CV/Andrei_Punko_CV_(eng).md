@@ -14,19 +14,20 @@ Likes clean code, refactoring, covers code with tests, writes documentation.
 - Github: https://github.com/andrei-punko
 
 ## Education
-- Belorussian State University. Physical department. 5 years of education
-- Qualification «Physicist-Researcher», specialization «Physics of solids»
+- Belorussian State University. Faculty of Physics. 5 years of education
+
+  Qualification «Physicist-Researcher», specialization «Solid-state physics»
 - English - B1 (Intermediate)
 
 ## Key skills
-- Java 6-8/11 and a bit of: Groovy, Go, Kotlin, Lua
+- Java 6-8/11 and a bit of: Groovy, Go, Kotlin, Lua, C
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase/Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Amazon Aurora, Tarantool
 - JUnit, Mockito, JMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
-- Jenkins, TeamCity, Jenkins DSL
+- Jenkins, TeamCity
 - ActiveMQ/RabbitMQ
 - REST API, Microservices, ELK, Grafana
 - AWS, Openshift
@@ -40,7 +41,7 @@ Likes clean code, refactoring, covers code with tests, writes documentation.
 - Location: Minsk, Belarus. Not interested in relocation
 - Likes: reading, coding and swimming
 
-## Companies/projects
+## Companies / Projects
 
 ### iTechArt, July 2022 – November 2022 (4 months)
 - Position: Senior Software Engineer
@@ -190,3 +191,20 @@ Tasks performed:
 - Developed tool for batch tokenization of 180m credit cards
 - Adapt existing UI components to show new specific information
 - Mentoring/providing help to other team members
+
+## BMC, February 2008 - August 2011 (3 years 7 months)
+- Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
+- Customer: BMC
+- Project: Development of device for diesel fuels testing (similar to British HFRR-LD)
+- Team Size (engineers): 3
+
+Environment:
+- C18 (C for PIC18 MCUs)
+- Delphi 7
+- Multisim, Ultiboard
+
+Tasks performed:
+- Design printed circuit boards and their assembly
+- Development of microcontroller firmware
+- Development of PC software
+- Participate in certification testing and customer education
