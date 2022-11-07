@@ -23,29 +23,37 @@ Senior Java backend developer with 11-years experience in creation of web- and d
   Qualification «Physicist-Researcher», specialization «Solid-state physics»
 - English - B1 (Intermediate)
 
+## Business-Domains
+- Entertainment
+- FinTech
+- Documentation
+- Travelling
+- Instrumentation
+
 ## Key skills
 - Java 6-8/11 and a bit of: Groovy, Go, Kotlin, Lua, C
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
-- JPA, Hibernate, iBatis, Liquibase/Flyway, SQL
+- JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Amazon Aurora, Tarantool
 - JUnit, Mockito, JMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
-- ActiveMQ/RabbitMQ
+- ActiveMQ / RabbitMQ
 - REST API, Microservices, ELK, Grafana
-- AWS, Openshift
+- AWS, Docker, Openshift
 - Corda DLT (certified Corda developer)
 - Software Development Principles and Concepts, Design Pattern (MVC, MVP, SOLID)
 - Intellij IDEA, Postman, SoapUI, DBeaver, SQL Developer
-- Git, Gitlab, Bitbucket and partially: SVN, Perforce
+- Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
 ## Additional information
 - Location: Minsk, Belarus. Not interested in relocation
 - Likes: reading, coding and swimming
 
-## Companies / Projects
+
+## Companies / Projects (Java)
 
 ### iTechArt, July 2022 – November 2022 (4 months)
 - Position: Senior Software Engineer
@@ -57,7 +65,7 @@ Environment:
 - Java 11, Python 3
 - Spring (Boot, Rest, Data), Lombok, MapStruct, JUnit, Mockito, Docker, PostgreSQL, Liquibase
 - Gradle, Jenkins, AWS S3, JMeter
-- Intellij IDEA, Postman, Git, GitHub
+- Intellij IDEA, PyCharm, Postman, Git, GitHub
 - ClickUp, Swagger
 
 Tasks performed:
@@ -72,6 +80,7 @@ Tasks performed:
 - Customer: VTB – Russian bank
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half year)
+- GitHub link: https://github.com/apunko-altir
 
 Environment:
 - Java 11, Lua
@@ -89,7 +98,7 @@ Tasks performed:
 - Troubleshooting & bug-fixing
 
 
-### Epam Systems, June 2017 — January 2021 (3 years 8 months)
+### Epam Systems, June 2017 — January 2021 (3 years 7 months)
 - Position: Senior Software Engineer
 
 Customers/Projects:
@@ -105,6 +114,7 @@ Customers/Projects:
 - Customer: Microsoft – DocFx team
     - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
     - Team size (devs): 1
+    - GitHub link: https://github.com/docascode/docfx-doclet
 
 - Customer: QVC – German retailer (TV-shop)
     - Project: Support development effort for QVC company
@@ -144,7 +154,8 @@ Tasks performed:
 - Development of tool to perform members migration from external system into existing loyalty system
   with applying to them benefits, tier-level changes etc. according to business rules
 
-## Godel technologies, November 2016 — February 2017 (4 months)
+
+## Godel technologies, November 2016 — February 2017 (3 months)
 - Position: Java Developer
 - Customer: Extra Energy – British energy provider
 - Project: Development statistics collector from smart electric counters for European energy supply provider
@@ -163,7 +174,8 @@ Tasks performed:
 - Participated in R&D activities
 - Implemented new functionality
 
-## Epam Systems, October 2011 — November 2016 (5 years 2 months)
+
+## Epam Systems, October 2011 — November 2016 (5 years 1 months)
 - Position: (Junior → Middle → Senior) Software Engineer
 
 Customers/Projects:
@@ -181,7 +193,7 @@ Environment:
 - Oracle, JPA, Hibernate
 - Jenkins, Git, Maven
 - JMS, ActiveMQ
-- SoapUI, NetBeans/Eclipse/IntelliJ IDEA
+- SoapUI, NetBeans / Eclipse / IntelliJ IDEA
 - Rally, Bitbucket
 
 Tasks performed:
@@ -194,9 +206,12 @@ Tasks performed:
 - Add support of second (Chinese) language to existing UI with translation ability
 - Developed tool for batch tokenization of 180m credit cards
 - Adapt existing UI components to show new specific information
-- Mentoring/providing help to other team members
+- Mentoring & support of new team members
 
-## BMC, February 2008 - August 2011 (3 years 7 months)
+
+## Companies / Projects (before Java)
+
+## BMC, February 2008 - August 2011 (3 years 6 months)
 - Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
 - Customer: BMC
 - Project: Development of device for diesel fuels testing (similar to British HFRR-LD)
