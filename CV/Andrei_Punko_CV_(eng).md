@@ -1,11 +1,15 @@
 
-![image info](./images/Andrei_Punko_photo_informal_(forest).jpg)
+![image info](../images/Andrei_Punko_photo_informal_(forest).jpg)
 
 # Andrei Punko
 
-Senior Java backend developer with 11-years experience in creation of web- and distributed applications.
-Main technology stack – it's Java with standard set of frameworks for backend development.
-Likes clean code, refactoring, covers code with tests, writes documentation.
+Senior Java backend developer with 11-years experience in creation of web- and distributed applications
+- Main technology stack – is Java with standard set of frameworks for backend development
+- Have hands-on experience with Git and CI tools
+- Able to use Unix command line in scope of usual backend tasks
+- Have knowledge of common algorithms and data structures
+- Able to cover code with wide range of tests: unit / functional / performance
+- Likes clean & tested code, refactoring, writes documentation
 
 ## Contacts
 - Mail: `andd3dfx@gmail.com`

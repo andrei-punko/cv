@@ -1,6 +1,8 @@
 
 # Andrei Punko - Newcomer introduction
 
+![image info](../images/Andrei_Punko_photo_informal_(forest).jpg)
+
 Hello
 
 Some time ago I graduated from Belarusian State University with Physicist-Researcher specialization.
