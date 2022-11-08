@@ -64,8 +64,9 @@ Java backend разработчик с 11-летним опытом в созд�
 
 Фреймворки/технологии:
 - Java 11, Python 3
-- Spring (Boot, Rest, Data), Lombok, MapStruct, JUnit, Mockito, Docker, PostgreSQL, Liquibase
-- Gradle, Jenkins, AWS S3, JMeter
+- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- JUnit, Mockito, JMeter
+- Gradle, Jenkins, AWS S3
 - Intellij IDEA, PyCharm, Postman, Git, GitHub
 - ClickUp, Swagger
 
@@ -84,8 +85,9 @@ Java backend разработчик с 11-летним опытом в созд�
 
 Фреймворки/технологии:
 - Java 11, Lua
-- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, JUnit, Mockito, Docker, Testcontainers
-- Gradle (composite build), TeamCity, Sonar
+- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
+- JUnit, Mockito, Testcontainers, JMeter, Sonar
+- Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - Intellij IDEA, Postman, Git, Bitbucket
 - Jira, Confluence, Swagger
@@ -165,6 +167,7 @@ Java backend разработчик с 11-летним опытом в созд�
 Фреймворки/технологии:
 - Java 8
 - Spring (Boot, Data, Cloud, Integration)
+- JUnit, Mockito
 - JPA, PostgreSQL, Liquibase
 - Maven, Jenkins, Git, Bitbucket, Docker
 - Intellij IDEA, Jira, Confluence
@@ -191,6 +194,7 @@ Java backend разработчик с 11-летним опытом в созд�
 
 Фреймворки/технологии:
 - Java 6/7, Apache CXF, Spring Framework, Apache Camel, Quartz, GWT
+- JUnit 4, JMock
 - Oracle, JPA, Hibernate
 - Jenkins, Git, Maven
 - JMS, ActiveMQ

@@ -60,11 +60,13 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Customer: Altir
 - Project: Migration of Python-based service (of Soundful product) to Java
 - Team Size (devs): 1-3
+- GitHub link: https://github.com/apunko-altir
 
 Environment:
 - Java 11, Python 3
-- Spring (Boot, Rest, Data), Lombok, MapStruct, JUnit, Mockito, Docker, PostgreSQL, Liquibase
-- Gradle, Jenkins, AWS S3, JMeter
+- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- JUnit, Mockito, JMeter
+- Gradle, Jenkins, AWS S3
 - Intellij IDEA, PyCharm, Postman, Git, GitHub
 - ClickUp, Swagger
 
@@ -80,12 +82,12 @@ Tasks performed:
 - Customer: VTB – Russian bank
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half year)
-- GitHub link: https://github.com/apunko-altir
 
 Environment:
 - Java 11, Lua
-- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, JUnit, Mockito, Docker, Testcontainers
-- Gradle (composite build), TeamCity, Sonar
+- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
+- JUnit, Mockito, Testcontainers, JMeter, Sonar
+- Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - Intellij IDEA, Postman, Git, Bitbucket
 - Jira, Confluence, Swagger
@@ -164,6 +166,7 @@ Tasks performed:
 Environment:
 - Java 8
 - Spring (Boot, Data, Cloud, Integration)
+- JUnit, Mockito
 - JPA, PostgreSQL, Liquibase
 - Maven, Jenkins, Git, Bitbucket, Docker
 - Intellij IDEA, Jira, Confluence
@@ -190,6 +193,7 @@ Customers/Projects:
 
 Environment:
 - Java 6/7, Apache CXF, Spring Framework, Apache Camel, Quartz, GWT
+- JUnit 4, JMock
 - Oracle, JPA, Hibernate
 - Jenkins, Git, Maven
 - JMS, ActiveMQ
