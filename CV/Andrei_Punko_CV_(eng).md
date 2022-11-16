@@ -307,3 +307,23 @@ Tasks performed:
 - Development of microcontroller firmware
 - Development of PC software
 - Participate in certification testing and customer education
+
+
+## BSUIR, August 2003 - May 2011 (7 years 9 months)
+- Position: Scientist
+- Customer: BSUIR - university
+- Project: Scientific research of processes in metals and semiconductors during energetic influence
+- Team Size (scientists): 1-5
+
+Environment:
+- C, C18 (C for PIC18 MCUs), Object Pascal
+- Numerical methods
+- Visual Studio, Delphi, Comsol Femlab
+- Multisim, Ultiboard
+
+Tasks performed:
+- Numerical modeling of mixtures diffusion in solids
+- Numerical modeling of hydrodynamic processes
+- Developed and assembled several electronic devices & software for them:
+  - Tribometer
+  - Solar cells tester
