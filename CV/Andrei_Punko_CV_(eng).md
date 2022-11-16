@@ -9,6 +9,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Able to use Unix command line in scope of usual backend tasks
 - Have knowledge of common algorithms and data structures
 - Able to cover code with wide range of tests: unit / functional / performance
+- Have some experience in math, physics and numerical modeling
 - Likes clean & tested code, refactoring, writes documentation
 
 ## Contacts
@@ -51,6 +52,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 ## Additional information
 - Location: Minsk, Belarus. Not interested in relocation
 - Likes: reading, coding and swimming
+- Not interested in projects related with betting, gambling, casino, forex or other immoral activities
 
 
 ## Companies / Projects (Java)
