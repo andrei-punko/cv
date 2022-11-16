@@ -31,10 +31,10 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Instrumentation
 
 ## Key skills
-- Java 6-8/11 and a bit of: Groovy, Go, Kotlin, Lua, C
+- Java 6-8/11 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
-- H2, Oracle, PostgreSQL, Redis, Amazon Aurora, Tarantool
+- H2, Oracle, PostgreSQL, Redis, Tarantool
 - JUnit, Mockito, JMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
@@ -66,8 +66,10 @@ Environment:
 - Java 11, Python 3
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, JMeter
-- Gradle, Jenkins, AWS S3
-- Intellij IDEA, PyCharm, Postman, Git, GitHub
+- Gradle, Jenkins
+- AWS S3
+- Git, GitHub
+- Intellij IDEA, PyCharm, Postman, DBeaver
 - ClickUp, Swagger
 
 Tasks performed:
@@ -100,61 +102,121 @@ Tasks performed:
 - Troubleshooting & bug-fixing
 
 
-### Epam Systems, June 2017 — January 2021 (3 years 7 months)
+### Epam Systems, November 2019 — August 2020 (10 months)
 - Position: Senior Software Engineer
-
-Customers/Projects:
-
-- Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
-    - Project: Development of loyalty system for IHG hotels network
-    - Team size (devs): 40+
-
-- Customer: Epic Games – Developer of games and tools
-    - Project: Play owner role of one of microservices for Epic Games Social Platform
-    - Team size (devs): 10+
-
-- Customer: Microsoft – DocFx team
-    - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
-    - Team size (devs): 1
-    - GitHub link: https://github.com/docascode/docfx-doclet
-
-- Customer: QVC – German retailer (TV-shop)
-    - Project: Support development effort for QVC company
-    - Team size (devs): 3
-
 - Customer: Epam Systems – outsourcing company
-    - Project: Development of Blockchain-based app prototypes, generally based on Corda DLT for potential customers
-    - Team size (devs): 3
+- Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
+- Team size (devs): 3
 
 Environment:
-- Java 6/8/11
-- JUnit, Mockito, JMock, Spock, Gatling
-- Spring (Core, Boot, Data, Rest), Jackson, JAX-RS, Akka
-- H2, Oracle, PostgreSQL, Redis, LevelDB, Amazon (EC2, Route53, Aurora)
-- JPA, Hibernate, iBatis,  Liquibase, Flyway
-- Maven, Gradle
-- Git, SVN, Perforce, Gitlab, Bitbucket
-- Nexus, JFrog
-- JIRA, Confluence, Swagger
-- Jenkins, TeamCity, Jenkins DSL
-- ActiveMQ, RabbitMQ
+- Java 8, Groovy, Go
+- Spring (Core, Boot, Rest, Data), Lombok, MapStruct
 - Corda, Hyperledger (Composer, Fabric)
-- Intellij IDEA, Postman, SoapUI, SQL Developer, DBeaver
+- H2, PostgreSQL, LevelDB
+- JUnit, Mockito, Spock, Gatling, k6
+- Gradle, Jenkins (with DSL)
+- Git, Gitlab
+- Intellij IDEA
+- Confluence, Swagger
 
 Tasks performed:
 - Design and implement REST APIs
-- Made DB performance optimizations
-- CI setup
 - Functional/Performance tests implementation
 - Demo preparation & demonstration
 - Documentation preparation
-- Involved in migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
-- Passed Corda certification
+- Passed Corda certification (private blockchain)
 - Developed several Blockchain-based application prototypes
+
+
+### Epam Systems, April 2019 — October 2019 (7 months)
+- Position: Senior Software Engineer
+- Customer: QVC – German retailer (TV-shop)
+- Project: Support development effort for QVC company
+- Team size (devs): 3
+
+Environment:
+- Java 6
+- Jackson, iBatis, JiBX, Spring (Core, Rest)
+- JUnit, Mockito
+- Oracle Siebel CRM, IBM WebSphere
+- Maven, Jenkins
+- SVN
+- Intellij IDEA
+- JIRA
+
+Tasks performed:
 - Implemented integration with external Payment Authorization - API with security certificates support
 - Implemented batch jobs with required business logic
+- Documentation preparation
+
+
+### Epam Systems, November 2018 — February 2019 (4 months)
+- Position: Senior Software Engineer
+- Customer: Microsoft – DocFx team
+- Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
+- Team size (devs): 1
+- GitHub link: https://github.com/docascode/docfx-doclet
+
+Environment:
+- Java 11
+- Jackson
+- JUnit, Mockito, Jacoco
+- Maven
+- Git, GitHub
+- IntelliJ IDEA
+
+Tasks performed:
+- Design application architecture
+- Implementation of core functionality and features
+
+
+### Epam Systems, June 2018 — November 2018 (5 months)
+- Position: Senior Software Engineer
+- Customer: Epic Games – Developer of games and tools
+- Project: Play owner role of one of microservices for Epic Games Social Platform
+- Team size (devs): 10+
+
+Environment:
+- Java 8
+- Spring, JPA, Hibernate, JAX-RS
+- JUnit, Mockito, Gatling
+- PostgreSQL, Redis
+- AWS (EC2, Route53, Elastic, Aurora, CloudWatch)
+- Git, GitHub, Perforce
+- Gradle, TeamCity
+- IntelliJ IDEA
+- JIRA
+
+Tasks performed:
+- Made DB performance optimizations
+- Design & implement Cursor API
+- Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
+- Modify existing functionality, fix defects
+
+
+### Epam Systems, June 2017 — February 2018 (8 months)
+- Position: Senior Software Engineer
+- Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
+- Project: Development of loyalty system for IHG hotels network
+- Team size (devs): 40+
+
+Environment:
+- Java 8, Groovy
+- Spring (Core, Boot, Rest, Data, Security), Akka, JPA, Hibernate, GWT
+- JUnit, Mockito, JMock, Spock
+- Oracle, Liquibase, Flyway
+- ActiveMQ, RabbitMQ
+- Git, Bitbucket
+- Maven, Gradle, Jenkins
+- IntelliJ IDEA, SoapUI, SQL Developer, DBeaver
+- Rally, Swagger, Stash
+
+Tasks performed:
+- Design and implement REST APIs
 - Development of tool to perform members migration from external system into existing loyalty system
   with applying to them benefits, tier-level changes etc. according to business rules
+- Functional tests implementation
+- Demo preparation & demonstration
 
 
 ## Godel technologies, November 2016 — February 2017 (3 months)
@@ -168,8 +230,10 @@ Environment:
 - Spring (Boot, Data, Cloud, Integration)
 - JUnit, Mockito
 - JPA, PostgreSQL, Liquibase
-- Maven, Jenkins, Git, Bitbucket, Docker
-- Intellij IDEA, Jira, Confluence
+- Maven, Jenkins
+- Git, Bitbucket, Docker
+- Intellij IDEA
+- Jira, Confluence
 
 Tasks performed:
 - CI setup
@@ -178,30 +242,24 @@ Tasks performed:
 - Implemented new functionality
 
 
-## Epam Systems, October 2011 — November 2016 (5 years 1 months)
+## Epam Systems, April 2012 — November 2016 (4 years 7 months)
 - Position: (Junior → Middle → Senior) Software Engineer
-
-Customers/Projects:
-
 - Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
-  - Project: Development of loyalty system for hotels network
-  - Team Size (devs): 40+
-
-- Customer: -
-  - Project: Studying in Java-laboratory
-  - Team Size (devs): 1
+- Project: Development of loyalty system for hotels network
+- Team Size (devs): 40+
 
 Environment:
-- Java 6/7, Apache CXF, Spring Framework, Apache Camel, Quartz, GWT
-- JUnit 4, JMock
+- Java 6/7
+- Apache CXF, Spring, Apache Camel, Quartz, GWT
+- JUnit, JMock
 - Oracle, JPA, Hibernate
-- Jenkins, Git, Maven
+- Maven, Jenkins
+- Git, Bitbucket
 - JMS, ActiveMQ
 - SoapUI, NetBeans / Eclipse / IntelliJ IDEA
-- Rally, Bitbucket
+- Rally
 
 Tasks performed:
-- Implemented 10 required Java-laboratory tasks & bonus task - "Reversi" game
 - Fixed defects, implemented new functionality
 - Performed refactoring of existing legacy code
 - Design and development of several new features for existing loyalty system
@@ -213,6 +271,22 @@ Tasks performed:
 - Mentoring & support of new team members
 
 
+## Epam Systems, October 2011 — April 2012 (6 months)
+- Position: Junior Software Engineer
+- Customer: -
+- Project: Studying in Java-laboratory
+- Team Size (devs): 1
+
+Environment:
+- Java 6
+- Spring, JPA, Hibernate, SQL, JavaScript, jQuery, JSF
+- Oracle
+- NetBeans, Tomcat
+
+Tasks performed:
+- Implemented 10 required Java-laboratory tasks & bonus task - "Reversi" game
+
+
 ## Companies / Projects (before Java)
 
 ## BMC, February 2008 - August 2011 (3 years 6 months)
@@ -222,7 +296,7 @@ Tasks performed:
 - Team Size (engineers): 3
 
 Environment:
-- C18 (C for PIC18 MCUs)
+- C18 (C for PIC18 MCUs), MPLAB
 - Delphi 7
 - Multisim, Ultiboard
 
