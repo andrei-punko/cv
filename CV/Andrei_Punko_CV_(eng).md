@@ -1,6 +1,4 @@
 
-![image info](../images/Andrei_Punko_photo_informal_(forest).jpg)
-
 # Andrei Punko
 
 Senior Java backend developer with 11-years experience in creation of web- and distributed applications
@@ -17,6 +15,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Telegram: `@andreipunko`
 - Skype: `andrei.punko`
 - Github: https://github.com/andrei-punko
+- Youtube: https://www.youtube.com/channel/UCklWL_zSjeesmnx81aYUCbQ
 
 ## Education
 - Belorussian State University. Faculty of Physics. 5 years of education
@@ -51,13 +50,14 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Additional information
 - Location: Minsk, Belarus. Not interested in relocation
+- Timezone: GMT+3
 - Likes: reading, coding and swimming
 - Not interested in projects related with betting, gambling, casino, forex or other immoral activities
 
 
 ## Companies / Projects (Java)
 
-### iTechArt, July 2022 – November 2022 (4 months)
+### iTechArt, July 2022 – Now (5 months)
 - Position: Senior Software Engineer
 - Customer: Altir
 - Project: Migration of Python-based service (of Soundful product) to Java
@@ -221,7 +221,7 @@ Tasks performed:
 - Demo preparation & demonstration
 
 
-## Godel technologies, November 2016 — February 2017 (3 months)
+### Godel technologies, November 2016 — February 2017 (3 months)
 - Position: Java Developer
 - Customer: Extra Energy – British energy provider
 - Project: Development statistics collector from smart electric counters for European energy supply provider
@@ -244,7 +244,7 @@ Tasks performed:
 - Implemented new functionality
 
 
-## Epam Systems, April 2012 — November 2016 (4 years 7 months)
+### Epam Systems, April 2012 — November 2016 (4 years 7 months)
 - Position: (Junior → Middle → Senior) Software Engineer
 - Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
 - Project: Development of loyalty system for hotels network
@@ -273,7 +273,7 @@ Tasks performed:
 - Mentoring & support of new team members
 
 
-## Epam Systems, October 2011 — April 2012 (6 months)
+### Epam Systems, October 2011 — April 2012 (6 months)
 - Position: Junior Software Engineer
 - Customer: -
 - Project: Studying in Java-laboratory
@@ -291,7 +291,7 @@ Tasks performed:
 
 ## Companies / Projects (before Java)
 
-## BMC, February 2008 - August 2011 (3 years 6 months)
+### BMC, February 2008 - August 2011 (3 years 6 months)
 - Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
 - Customer: BMC
 - Project: Development of device for diesel fuels testing (similar to British HFRR-LD)
@@ -309,7 +309,7 @@ Tasks performed:
 - Participate in certification testing and customer education
 
 
-## BSUIR, August 2003 - May 2011 (7 years 9 months)
+### BSUIR, August 2003 - May 2011 (7 years 9 months)
 - Position: Scientist
 - Customer: BSUIR - university
 - Project: Scientific research of processes in metals and semiconductors during energetic influence
