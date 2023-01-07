@@ -14,8 +14,10 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Mail: `andd3dfx@gmail.com`
 - Telegram: `@andreipunko`
 - Skype: `andrei.punko`
+
+## Links
 - Github: https://github.com/andrei-punko
-- Youtube: https://www.youtube.com/channel/UCklWL_zSjeesmnx81aYUCbQ
+- Youtube: https://www.youtube.com/@andd3dfx
 
 ## Education
 - Belorussian State University. Faculty of Physics. 5 years of education
@@ -35,7 +37,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Tarantool
-- JUnit, Mockito, JMock, Testcontainers, Spock, Gatling, k6
+- JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
@@ -49,15 +51,15 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
 ## Additional information
-- Location: Minsk, Belarus. Not interested in relocation
+- Location: Minsk, Belarus. Not interested in relocation and business trips
 - Timezone: GMT+3
 - Likes: reading, coding and swimming
-- Not interested in projects related with betting, gambling, casino, forex or other immoral activities
+- Not interested in projects related with betting, gambling, dating, casino, forex or other immoral activity
 
 
 ## Companies / Projects (Java)
 
-### iTechArt, July 2022 – Now (5 months)
+### iTechArt, July 2022 – Now (6 months)
 - Position: Senior Software Engineer
 - Customer: Altir
 - Project: Migration of Python-based service (of Soundful product) to Java
@@ -77,8 +79,9 @@ Environment:
 Tasks performed:
 - REST API design & implementation
 - Migration of Python code to Java
-- Implementation of hybrid tests verifying migrated Java code vs Python
+- Implementation of hybrid tests for comparison results of run migrated Java code and Python code
 - Documentation preparation, knowledge transferring, code review, showing demo
+- Manage team of 3 people
 
 
 ### Artezio, April 2021 — April 2022 (1 year)
@@ -90,7 +93,7 @@ Tasks performed:
 Environment:
 - Java 11, Lua
 - Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
-- JUnit, Mockito, Testcontainers, JMeter, Sonar
+- JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
 - Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - Intellij IDEA, Postman, Git, Bitbucket

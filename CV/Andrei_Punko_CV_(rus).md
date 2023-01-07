@@ -10,12 +10,14 @@
 - Имеет опыт в математике, физике и численном моделировании
 - Любит чистый и протестированный код, рефакторинг, пишет документацию
 
-## Contacts
+## Контакты
 - Почта: `andd3dfx@gmail.com`
 - Telegram: `@andreipunko`
 - Skype: `andrei.punko`
+
+## Ссылки
 - Github: https://github.com/andrei-punko
-- Youtube: https://www.youtube.com/channel/UCklWL_zSjeesmnx81aYUCbQ
+- Youtube: https://www.youtube.com/@andd3dfx
 
 ## Образование
 - Белорусский государственный университет. Физический факультет. 5 лет обучения
@@ -35,7 +37,7 @@
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Tarantool
-- JUnit, Mockito, JMock, Testcontainers, Spock, Gatling, k6
+- JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
@@ -49,15 +51,15 @@
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
 ## Дополнительная информация
-- Локация: Минск, Беларусь. Не интересуюсь релокацией
+- Локация: Минск, Беларусь. Не интересуюсь релокацией и командировками
 - Часовой пояс: GMT+3
 - Интересы: чтение, программирование и плавание
-- Не интересны: проекты, связанные со ставками, казино, forex-ом или другой аморальной активностью
+- Не интересны: проекты, связанные со ставками, казино, forex-ом, знакомствами или другой аморальной активностью
 
 
 ## Компании / Проекты (Java)
 
-### iTechArt, Июль 2022 – Сейчас (5 месяцев)
+### iTechArt, Июль 2022 – Сейчас (6 месяцев)
 - Должность: Старший инженер-программист
 - Заказчик: Altir
 - Проект: Миграция сервиса с Python на Java (для продукта Soundful)
@@ -77,8 +79,9 @@
 Выполнены задачи:
 - Проектирование и реализация REST API
 - Миграция Python-кода на Java
-- Реализация гибридных Java-Python тестов, проверяющих правильность миграции 
+- Реализация гибридных тестов, сравнивающих результаты выполнения мигрированного Java-кода и исходного Python-кода
 - Подготовка документации, передача знаний, ревью кода, подготовка и показ демо
+- Руководство командой из 3 человек
 
 
 ### Artezio, Апрель 2021 — Апрель 2022 (1 год)
@@ -90,7 +93,7 @@
 Фреймворки/технологии:
 - Java 11, Lua
 - Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
-- JUnit, Mockito, Testcontainers, JMeter, Sonar
+- JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
 - Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - Intellij IDEA, Postman, Git, Bitbucket
