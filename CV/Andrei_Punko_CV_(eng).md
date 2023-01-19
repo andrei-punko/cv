@@ -59,12 +59,12 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Companies / Projects (Java)
 
-### iTechArt, July 2022 – Now (6 months)
+### iTechArt, July 2022 – January 2023 (6 months)
 - Position: Senior Software Engineer
 - Customer: Altir
 - Project: Migration of Python-based service (of Soundful product) to Java
 - Team Size (devs): 1-3
-- GitHub link: https://github.com/apunko-altir
+- GitHub profile on customer account: https://github.com/apunko-altir
 
 Environment:
 - Java 11, Python 3
@@ -80,7 +80,7 @@ Tasks performed:
 - REST API design & implementation
 - Migration of Python code to Java
 - Implementation of hybrid tests for comparison results of run migrated Java code and Python code
-- Documentation preparation, knowledge transferring, code review, showing demo
+- Documentation preparation, knowledge transferring, code review, preparation & showing demo
 - Manage team of 3 people
 
 
@@ -104,7 +104,7 @@ Tasks performed:
 - OpenShift services configuration adjustment
 - Setup of logging, monitoring, tracing, audit for services
 - Documentation preparation, knowledge transferring, code review
-- Troubleshooting & bug-fixing
+- Participation in performance testing
 
 
 ### Epam Systems, November 2019 — August 2020 (10 months)
@@ -125,7 +125,7 @@ Environment:
 - Confluence, Swagger
 
 Tasks performed:
-- Design and implement REST APIs
+- Design and implement REST API
 - Functional/Performance tests implementation
 - Demo preparation & demonstration
 - Documentation preparation
@@ -160,7 +160,7 @@ Tasks performed:
 - Customer: Microsoft – DocFx team
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
 - Team size (devs): 1
-- GitHub link: https://github.com/docascode/docfx-doclet
+- GitHub repository on customer account: https://github.com/docascode/docfx-doclet
 
 Environment:
 - Java 11
@@ -172,7 +172,7 @@ Environment:
 
 Tasks performed:
 - Design application architecture
-- Implementation of core functionality and features
+- Implementation of doclet using modern approach introduced in Java 9
 
 
 ### Epam Systems, June 2018 — November 2018 (5 months)
@@ -194,9 +194,8 @@ Environment:
 
 Tasks performed:
 - Made DB performance optimizations
-- Design & implement Cursor API
+- Design & implement Cursor API (client cursor as alternative to pagination)
 - Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
-- Modify existing functionality, fix defects
 
 
 ### Epam Systems, June 2017 — February 2018 (8 months)
@@ -217,7 +216,7 @@ Environment:
 - Rally, Swagger, Stash
 
 Tasks performed:
-- Design and implement REST APIs
+- Design and implement REST API
 - Development of tool to perform members migration from external system into existing loyalty system
   with applying to them benefits, tier-level changes etc. according to business rules
 - Functional tests implementation
@@ -244,7 +243,6 @@ Tasks performed:
 - CI setup
 - Involved in architecture design activities
 - Participated in R&D activities
-- Implemented new functionality
 
 
 ### Epam Systems, April 2012 — November 2016 (4 years 7 months)
@@ -265,14 +263,10 @@ Environment:
 - Rally
 
 Tasks performed:
-- Fixed defects, implemented new functionality
-- Performed refactoring of existing legacy code
-- Design and development of several new features for existing loyalty system
 - Designed & developed set of Quartz jobs
-- Developed new UI components for 2 UI Apps
+- Adapt existing/Developed new UI components for 2 UI Apps (using GWT)
 - Add support of second (Chinese) language to existing UI with translation ability
-- Developed tool for batch tokenization of 180m credit cards
-- Adapt existing UI components to show new specific information
+- Developed tool for batch tokenization of 180 million credit cards
 - Mentoring & support of new team members
 
 
@@ -289,7 +283,7 @@ Environment:
 - NetBeans, Tomcat
 
 Tasks performed:
-- Implemented 10 required Java-laboratory tasks & bonus task - "Reversi" game
+- Implemented 10 typical Java-laboratory tasks & bonus task - "Reversi" game
 
 
 ## Companies / Projects (before Java)
@@ -321,12 +315,12 @@ Tasks performed:
 Environment:
 - C, C18 (C for PIC18 MCUs), Object Pascal
 - Numerical methods
-- Visual Studio, Delphi, Comsol Femlab
+- Visual Studio, Delphi, Comsol Femlab, MPLAB
 - Multisim, Ultiboard
 
 Tasks performed:
 - Numerical modeling of mixtures diffusion in solids
 - Numerical modeling of hydrodynamic processes
 - Developed and assembled several electronic devices & software for them:
-  - Tribometer
+  - Tribometers (2 types)
   - Solar cells tester
