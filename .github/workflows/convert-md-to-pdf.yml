@@ -1,0 +1,27 @@
+name: MD to PDF
+# This workflow is triggered on pushes to the `master` branch of repository.
+on:
+  push:
+    branches:
+      - master
+    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+    paths:
+      - 'CV/**.md'
+      - '.github/workflows/convert-md-to-pdf.yml'
+
+jobs:
+  converttopdf:
+    name: Build PDF from MD
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: CV
+          output_dir: CV/pdf
+          # Default is true, can set to false for only get PDF files
+          build_html: false
+      - uses: actions/upload-artifact@v1
+        with:
+          name: upload-artifact
+          path: CV/pdf

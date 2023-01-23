@@ -1,6 +1,8 @@
 
 # CV and related stuff
 
+[![MD to PDF](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml/badge.svg)](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml)
+
 ## CV
 - [CV (eng)](CV/Andrei_Punko_CV_(eng).md)
 - [CV (rus)](CV/Andrei_Punko_CV_(rus).md)
