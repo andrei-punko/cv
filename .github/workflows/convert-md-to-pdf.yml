@@ -18,13 +18,13 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: CV
-          output_dir: CV/pdf
+          output_dir: CV/pdf/
           # Default is true, can set to false for only get PDF files
           build_html: false
       - uses: actions/upload-artifact@v1
         with:
           name: upload-artifact
-          path: CV/pdf
+          path: CV/pdf/
 
       - name: Commit the PDF (if it changed)
         run: |
