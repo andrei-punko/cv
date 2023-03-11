@@ -15,7 +15,7 @@ Before arriving to current project I worked at:
 different projects related with next domains: Travel / Finance / Documentation / Blockchain / Entertainment 
 
 My hobbies in early years were reading, electronics, programming and wood carving, 
-but during last years I mostly prefer just reading and programming.
+but during last years I mostly prefer just programming.
 
 What about books - I prefer technical literature (related with my specialization)
 and philosophical books (written by Eastern Orthodox fathers).

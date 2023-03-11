@@ -54,7 +54,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 ## Additional information
 - Location: Minsk, Belarus. Not interested in relocation and business trips
 - Timezone: GMT+3
-- Likes: reading, coding and swimming
+- Likes: coding, swimming
 - Not interested in projects related with betting, gambling, dating, casino, forex or other immoral activity
 
 
@@ -323,5 +323,5 @@ Tasks performed:
 - Numerical modeling of mixtures diffusion in solids
 - Numerical modeling of hydrodynamic processes
 - Developed and assembled several electronic devices & software for them:
-  - Tribometers (2 types)
+  - Tribometers (different types)
   - Solar cells tester
