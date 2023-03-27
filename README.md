@@ -17,13 +17,3 @@
 ## FAQ
 
 [Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
-
-## Self-presentation
-
-[На русском](./Self-presentation/Self-presentation_(rus).md)
-
-## Newcomer introduction
-
-[In english](./Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
-
-[На русском](./Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
