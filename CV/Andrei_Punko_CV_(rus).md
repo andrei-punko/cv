@@ -17,6 +17,8 @@
 
 ## Ссылки
 - Github: https://github.com/andrei-punko
+- Youtube: https://www.youtube.com/@andd3dfx
+- Twitter: https://twitter.com/andd3dfx
 - Это резюме в PDF: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf
 
 ## Образование
