@@ -23,8 +23,8 @@ jobs:
           build_html: false
       - uses: actions/upload-artifact@v1
         with:
-          name: upload-artifact
-          path: CV/pdf/
+          name: andrei-punko-cv
+          path: CV/pdf/Andrei_Punko_CV_(eng).pdf
 
       - name: Commit the PDF (if it changed)
         run: |
