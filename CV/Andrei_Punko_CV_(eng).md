@@ -61,6 +61,26 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Companies / Projects (Java)
 
+### Bell Integrator, June 2023 – now (1 month)
+- Position: Senior Software Engineer
+- Customer: Sberbank
+- Project: Development of microservices for backend of bank
+- Team Size (devs): 5
+
+Environment:
+- Java 15
+- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- JUnit, Mockito
+- Gradle, Jenkins
+- Git
+- Intellij IDEA, Postman, DBeaver
+- OpenAPI, Swagger
+
+Tasks performed:
+- Build speed-up & optimization
+- Refactoring
+
+
 ### iTechArt, July 2022 – January 2023 (6 months)
 - Position: Senior Software Engineer
 - Customer: Altir
