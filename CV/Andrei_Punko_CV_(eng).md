@@ -61,7 +61,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Companies / Projects (Java)
 
-### Bell Integrator, June 2023 – now (1 month)
+### Bell Integrator, June 2023 – now (2 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank
 - Project: Development of microservices for backend of bank
@@ -108,7 +108,7 @@ Tasks performed:
 
 ### Artezio, April 2021 — April 2022 (1 year)
 - Position: Lead Software Engineer
-- Customer: VTB – Russian bank
+- Customer: VTB (Russian bank)
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half year)
 
