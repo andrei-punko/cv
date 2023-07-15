@@ -11,11 +11,13 @@ Before arriving to current project I worked at:
 - BSUIR as a scientist / researcher where performed modeling of physical processes
 - Linline as an electronics engineer where participated in construction and tuning of electronics for cosmetology lasers
 - BMC as an electronics engineer and software developer where worked on prototyping of device for diesel fuels testing
-- Epam Systems / Godel Technologies / Artezio / iTechArt as a software engineer where used Java stack mostly on 
+- Epam Systems / Godel Technologies / Artezio / iTechArt / Bell Integrator as a software engineer where used Java stack mostly on
 different projects related with next domains: Travel / Finance / Documentation / Blockchain / Entertainment 
 
 My hobbies in early years were reading, electronics, programming and wood carving, 
 but during last years I mostly prefer just programming.
+
+Sometimes I publish videos on my YouTube channel dedicated to solving tasks on Java coding interview: https://www.youtube.com/@andd3dfx
 
 What about books - I prefer technical literature (related with my specialization)
 and philosophical books (written by Eastern Orthodox fathers).
