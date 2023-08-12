@@ -6,13 +6,13 @@
 - Имеет опыт работы с Git и инструментами CI
 - Способен использовать командную строку Unix для решения типовых backend задач
 - Обладает знаниями распространенных алгоритмов и структур данных
-- Может покрывать код широким спектром тестов: unit / функциональными / производительности
+- Может покрывать код широким спектром тестов: модульными / интеграционными / функциональными / производительности
 - Имеет опыт в математике, физике и численном моделировании
 - Любит чистый и протестированный код, рефакторинг, пишет документацию
 
 ## Контакты
-- Почта: `andd3dfx@gmail.com`
 - Telegram: `@andreipunko`
+- E-Mail: `andd3dfx@gmail.com`
 - Skype: `andrei.punko`
 
 ## Ссылки
@@ -61,24 +61,24 @@
 
 ## Компании / Проекты (Java)
 
-### Bell Integrator, Июнь 2023 – сейчас (2 месяца)
+### Bell Integrator, Июнь 2023 – сейчас (3 месяца)
 - Должность: Старший инженер-программист
 - Заказчик: Сбербанк
 - Проект: Разработка микросервисов для backend-а банка
-- Размер команды (разработчиков): 5
+- Размер команды (разработчиков): 6
 
 Фреймворки/технологии:
 - Java 15
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
-- JUnit, Mockito
+- JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
-- Git
-- Intellij IDEA, Postman, DBeaver
+- Git, Bitbucket
+- Intellij IDEA, DBeaver
 - OpenAPI, Swagger
 
 Выполнены задачи:
 - Ускорение и оптимизация сборки проекта
-- Рефакторинг
+- Рефакторинг кода
 
 
 ### iTechArt, Июль 2022 – Январь 2023 (6 месяцев)
@@ -91,7 +91,7 @@
 Фреймворки/технологии:
 - Java 11, Python 3
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
-- JUnit, Mockito, JMeter
+- JUnit, Mockito, Testcontainers, JMeter
 - Gradle, Jenkins
 - AWS S3
 - Git, GitHub

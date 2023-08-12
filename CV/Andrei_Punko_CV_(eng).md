@@ -6,13 +6,13 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Have hands-on experience with Git and CI tools
 - Able to use Unix command line in scope of usual backend tasks
 - Have knowledge of common algorithms and data structures
-- Able to cover code with wide range of tests: unit / functional / performance
+- Able to cover code with wide range of tests: unit / integration / functional / performance
 - Have some experience in math, physics and numerical modeling
 - Likes clean & tested code, refactoring, writes documentation
 
 ## Contacts
-- Mail: `andd3dfx@gmail.com`
 - Telegram: `@andreipunko`
+- E-Mail: `andd3dfx@gmail.com`
 - Skype: `andrei.punko`
 
 ## Links
@@ -61,24 +61,24 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Companies / Projects (Java)
 
-### Bell Integrator, June 2023 – now (2 months)
+### Bell Integrator, June 2023 – now (3 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank
 - Project: Development of microservices for backend of bank
-- Team Size (devs): 5
+- Team Size (devs): 6
 
 Environment:
 - Java 15
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
-- JUnit, Mockito
+- JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
-- Git
-- Intellij IDEA, Postman, DBeaver
+- Git, Bitbucket
+- Intellij IDEA, DBeaver
 - OpenAPI, Swagger
 
 Tasks performed:
 - Build speed-up & optimization
-- Refactoring
+- Code refactoring
 
 
 ### iTechArt, July 2022 – January 2023 (6 months)
@@ -91,7 +91,7 @@ Tasks performed:
 Environment:
 - Java 11, Python 3
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
-- JUnit, Mockito, JMeter
+- JUnit, Mockito, Testcontainers, JMeter
 - Gradle, Jenkins
 - AWS S3
 - Git, GitHub
