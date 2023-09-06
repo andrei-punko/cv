@@ -34,7 +34,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Instrumentation
 
 ## Key skills
-- Java 6-8/11 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
+- Java 6-8/11/17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Tarantool
@@ -60,11 +60,11 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 
 ## Companies / Projects (Java)
 
-### Bell Integrator, June 2023 – now (3 months)
+### Bell Integrator, June 2023 – now (4 months)
 - Position: Senior Software Engineer
-- Customer: Sberbank
+- Customer: Sberbank - Russian bank
 - Project: Development of microservices for backend of bank
-- Team Size (devs): 6
+- Team Size (devs): 7
 
 Environment:
 - Java 15
@@ -78,11 +78,12 @@ Environment:
 Tasks performed:
 - Build speed-up & optimization
 - Code refactoring
+- Integration with external REST APIs
 
 
-### iTechArt, July 2022 – January 2023 (6 months)
+### iTechArt, July 2022 – January 2023 (7 months)
 - Position: Senior Software Engineer
-- Customer: Altir
+- Customer: Altir - American startup
 - Project: Migration of Python-based service (of Soundful product) to Java
 - Team Size (devs): 1-3
 - GitHub profile on customer account: https://github.com/apunko-altir
@@ -107,7 +108,7 @@ Tasks performed:
 
 ### Artezio, April 2021 — April 2022 (1 year)
 - Position: Lead Software Engineer
-- Customer: VTB (Russian bank)
+- Customer: VTB - Russian bank
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half year)
 
@@ -130,7 +131,7 @@ Tasks performed:
 
 ### Epam Systems, November 2019 — August 2020 (10 months)
 - Position: Senior Software Engineer
-- Customer: Epam Systems – outsourcing company
+- Customer: Epam Systems – Outsourcing company
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
@@ -156,7 +157,7 @@ Tasks performed:
 
 ### Epam Systems, April 2019 — October 2019 (7 months)
 - Position: Senior Software Engineer
-- Customer: QVC – German retailer (TV-shop)
+- Customer: QVC – German retailer / TV-shop
 - Project: Support development effort for QVC company
 - Team size (devs): 3
 
@@ -221,7 +222,7 @@ Tasks performed:
 
 ### Epam Systems, June 2017 — February 2018 (8 months)
 - Position: Senior Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
+- Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
 - Project: Development of loyalty system for IHG hotels network
 - Team size (devs): 40+
 
@@ -268,7 +269,7 @@ Tasks performed:
 
 ### Epam Systems, April 2012 — November 2016 (4 years 7 months)
 - Position: (Junior → Middle → Senior) Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) – worldwide hotel network
+- Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
 - Project: Development of loyalty system for hotels network
 - Team Size (devs): 40+
 
@@ -311,7 +312,7 @@ Tasks performed:
 
 ### BMC, February 2008 - August 2011 (3 years 6 months)
 - Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
-- Customer: BMC
+- Customer: BMC - Belarussian intercollegiate center
 - Project: Development of device for diesel fuels testing (similar to British HFRR-LD)
 - Team Size (engineers): 3
 
