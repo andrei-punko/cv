@@ -1,14 +1,14 @@
 
 # Andrei Punko
 
-Senior Java backend developer with 11-year experience in the creation of web- and distributed applications
+Senior Java backend developer with 12-year experience in the creation of web- and distributed applications
 - Main technology stack – is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
 - Able to use Unix command line in the scope of usual backend tasks
 - Have knowledge of common algorithms and data structures
 - Able to cover code with a wide range of tests: unit / integration / functional / performance
 - Have some experience in math, physics and numerical modeling
-- Likes clean & tested code, refactoring, writes documentation
+- Likes clean & tested code, refactoring, write documentation
 
 ## Contacts
 - Telegram: `@andreipunko`
@@ -28,10 +28,10 @@ Senior Java backend developer with 11-year experience in the creation of web- an
 - English - B1 (Intermediate)
 
 ## Business-Domains
-- Entertainment
 - FinTech
-- Documentation
 - Travelling
+- Documentation
+- Entertainment
 - Instrumentation
 
 ## Key skills
@@ -56,7 +56,7 @@ Senior Java backend developer with 11-year experience in the creation of web- an
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming
-- Not interested in projects related to betting, gambling, dating, casino, forex or other immoral activity
+- Not interested in projects related to gambling, dating, casino, forex or other immoral activity
 
 
 ## Companies / Projects (Java)
@@ -173,7 +173,7 @@ Environment:
 - JIRA
 
 Tasks performed:
-- Implemented integration with external Payment Authorization - API with security certificates support
+- Implemented integration with external Payment Authorization API with security certificates support
 - Implemented batch jobs with required business logic
 - Documentation preparation
 
@@ -313,7 +313,7 @@ Tasks performed:
 
 ### BMC, February 2008 — August 2011 (3 years 6 months)
 - Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
-- Customer: BMC - Belarussian intercollegiate center
+- Customer: BMC - Belarusian intercollegiate center
 - Project: Development of a device for diesel fuels testing (similar to British HFRR-LD)
 - Team Size (engineers): 3
 
@@ -329,9 +329,9 @@ Tasks performed:
 - Participate in certification testing and customer education
 
 
-### BSUIR, August 2003 - May 2011 (7 years 9 months)
+### BSUIR, August 2003 — May 2011 (7 years 9 months)
 - Position: Scientist
-- Customer: BSUIR - university
+- Customer: BSUIR — university
 - Project: Scientific research of processes in metals and semiconductors during energetic influence
 - Team Size (scientists): 1-5
 
