@@ -1,12 +1,12 @@
 
 # Andrei Punko
 
-Senior Java backend developer with 11-years experience in creation of web- and distributed applications
-- Main technology stack – is Java with standard set of frameworks for backend development
+Senior Java backend developer with 11-year experience in the creation of web- and distributed applications
+- Main technology stack – is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
-- Able to use Unix command line in scope of usual backend tasks
+- Able to use Unix command line in the scope of usual backend tasks
 - Have knowledge of common algorithms and data structures
-- Able to cover code with wide range of tests: unit / integration / functional / performance
+- Able to cover code with a wide range of tests: unit / integration / functional / performance
 - Have some experience in math, physics and numerical modeling
 - Likes clean & tested code, refactoring, writes documentation
 
@@ -18,6 +18,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 ## Links
 - Github: https://github.com/andrei-punko
 - Youtube: https://www.youtube.com/@andd3dfx
+- Garmin: https://connect.garmin.com/modern/profile/754a6849-312d-4bcc-bda2-631f5ebe0477
 - This CV in PDF: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
@@ -55,7 +56,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming
-- Not interested in projects related with betting, gambling, dating, casino, forex or other immoral activity
+- Not interested in projects related to betting, gambling, dating, casino, forex or other immoral activity
 
 
 ## Companies / Projects (Java)
@@ -63,7 +64,7 @@ Senior Java backend developer with 11-years experience in creation of web- and d
 ### Bell Integrator, June 2023 – now (4 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank - Russian bank
-- Project: Development of microservices for backend of bank
+- Project: Development of microservices for backend of a bank
 - Team Size (devs): 7
 
 Environment:
@@ -83,10 +84,10 @@ Tasks performed:
 
 ### iTechArt, July 2022 – January 2023 (7 months)
 - Position: Senior Software Engineer
-- Customer: Altir - American startup
-- Project: Migration of Python-based service (of Soundful product) to Java
+- Customer: Altir - American startup (of Soundful product)
+- Project: Migration of Python-based service to Java
 - Team Size (devs): 1-3
-- GitHub profile on customer account: https://github.com/apunko-altir
+- GitHub profile on a customer account: https://github.com/apunko-altir
 
 Environment:
 - Java 11, Python 3
@@ -110,7 +111,7 @@ Tasks performed:
 - Position: Lead Software Engineer
 - Customer: VTB - Russian bank
 - Project: Development of ATM backend (7 services)
-- Team Size (devs): 9 (half year), 3 (half year)
+- Team Size (devs): 9 (half year), 3 (half of year)
 
 Environment:
 - Java 11, Lua
@@ -182,7 +183,7 @@ Tasks performed:
 - Customer: Microsoft – DocFx team
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
 - Team size (devs): 1
-- GitHub repository on customer account: https://github.com/docascode/docfx-doclet
+- GitHub repository on a customer account: https://github.com/docascode/docfx-doclet
 
 Environment:
 - Java 11
@@ -200,7 +201,7 @@ Tasks performed:
 ### Epam Systems, June 2018 — November 2018 (5 months)
 - Position: Senior Software Engineer
 - Customer: Epic Games – Developer of games and tools
-- Project: Play owner role of one of microservices for Epic Games Social Platform
+- Project: Play an owner role of one of microservices for Epic Games Social Platform
 - Team size (devs): 10+
 
 Environment:
@@ -223,7 +224,7 @@ Tasks performed:
 ### Epam Systems, June 2017 — February 2018 (8 months)
 - Position: Senior Software Engineer
 - Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
-- Project: Development of loyalty system for IHG hotels network
+- Project: Development of a loyalty system for IHG hotels network
 - Team size (devs): 40+
 
 Environment:
@@ -239,8 +240,8 @@ Environment:
 
 Tasks performed:
 - Design and implement REST API
-- Development of tool to perform members migration from external system into existing loyalty system
-  with applying to them benefits, tier-level changes etc. according to business rules
+- Development of tool to perform members migration from an external system into an existing loyalty system
+  with applying to them benefits, tier-level changes, etc. according to business rules
 - Functional tests implementation
 - Demo preparation & demonstration
 
@@ -270,7 +271,7 @@ Tasks performed:
 ### Epam Systems, April 2012 — November 2016 (4 years 7 months)
 - Position: (Junior → Middle → Senior) Software Engineer
 - Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
-- Project: Development of loyalty system for hotels network
+- Project: Development of a loyalty system for hotel network
 - Team Size (devs): 40+
 
 Environment:
@@ -287,7 +288,7 @@ Environment:
 Tasks performed:
 - Designed & developed set of Quartz jobs
 - Adapt existing/Developed new UI components for 2 UI Apps (using GWT)
-- Add support of second (Chinese) language to existing UI with translation ability
+- Add support of second (Chinese) language to the existing UI with translation ability
 - Developed tool for batch tokenization of 180 million credit cards
 - Mentoring & support of new team members
 
@@ -310,10 +311,10 @@ Tasks performed:
 
 ## Companies / Projects (before Java)
 
-### BMC, February 2008 - August 2011 (3 years 6 months)
+### BMC, February 2008 — August 2011 (3 years 6 months)
 - Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
 - Customer: BMC - Belarussian intercollegiate center
-- Project: Development of device for diesel fuels testing (similar to British HFRR-LD)
+- Project: Development of a device for diesel fuels testing (similar to British HFRR-LD)
 - Team Size (engineers): 3
 
 Environment:
@@ -341,7 +342,7 @@ Environment:
 - Multisim, Ultiboard
 
 Tasks performed:
-- Numerical modeling of mixtures diffusion in solids
+- Numerical modeling of mixture diffusion in solids
 - Numerical modeling of hydrodynamic processes
 - Developed and assembled several electronic devices & software for them:
   - Tribometers (different types)
