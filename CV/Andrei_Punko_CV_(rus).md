@@ -18,7 +18,6 @@
 ## Ссылки
 - Github: https://github.com/andrei-punko
 - Youtube: https://www.youtube.com/@andd3dfx
-- Garmin: https://connect.garmin.com/modern/profile/754a6849-312d-4bcc-bda2-631f5ebe0477
 - Это резюме в PDF: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf
 
 ## Образование
@@ -61,7 +60,7 @@
 
 ## Компании / Проекты (Java)
 
-### Bell Integrator, Июнь 2023 – сейчас (4 месяца)
+### Bell Integrator, Июнь 2023 – сейчас (6 месяца)
 - Должность: Старший инженер-программист
 - Заказчик: Сбербанк - Pоссийский банк
 - Проект: Разработка микросервисов для backend-а банка

@@ -18,7 +18,6 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 ## Links
 - Github: https://github.com/andrei-punko
 - Youtube: https://www.youtube.com/@andd3dfx
-- Garmin: https://connect.garmin.com/modern/profile/754a6849-312d-4bcc-bda2-631f5ebe0477
 - This CV in PDF: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
@@ -61,7 +60,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 
 ## Companies / Projects (Java)
 
-### Bell Integrator, June 2023 – now (4 months)
+### Bell Integrator, June 2023 – now (6 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank - Russian bank
 - Project: Development of microservices for backend of a bank
