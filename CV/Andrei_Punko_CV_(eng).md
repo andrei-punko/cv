@@ -58,7 +58,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 - Not interested in projects related to gambling, dating, casino, forex or other immoral activity
 
 
-## Companies / Projects (Java)
+## Companies / Projects
 
 ### Bell Integrator, June 2023 – now (6 months)
 - Position: Senior Software Engineer
@@ -306,43 +306,3 @@ Environment:
 
 Tasks performed:
 - Implemented 10 typical Java-laboratory tasks & bonus task - "Reversi" game
-
-
-## Companies / Projects (before Java)
-
-### BMC, February 2008 — August 2011 (3 years 6 months)
-- Position: Electronics Engineer / Software Engineer / Embedded Software Engineer
-- Customer: BMC - Belarusian intercollegiate center
-- Project: Development of a device for diesel fuels testing (similar to British HFRR-LD)
-- Team Size (engineers): 3
-
-Environment:
-- C18 (C for PIC18 MCUs), MPLAB
-- Delphi 7
-- Multisim, Ultiboard
-
-Tasks performed:
-- Design printed circuit boards and their assembly
-- Development of microcontroller firmware
-- Development of PC software
-- Participate in certification testing and customer education
-
-
-### BSUIR, August 2003 — May 2011 (7 years 9 months)
-- Position: Scientist
-- Customer: BSUIR — university
-- Project: Scientific research of processes in metals and semiconductors during energetic influence
-- Team Size (scientists): 1-5
-
-Environment:
-- C, C18 (C for PIC18 MCUs), Object Pascal
-- Numerical methods
-- Visual Studio, Delphi, Comsol Femlab, MPLAB
-- Multisim, Ultiboard
-
-Tasks performed:
-- Numerical modeling of mixture diffusion in solids
-- Numerical modeling of hydrodynamic processes
-- Developed and assembled several electronic devices & software for them:
-  - Tribometers (different types)
-  - Solar cells tester
