@@ -1,0 +1,27 @@
+/* You can add some CSS styles too, if you want. */
+
+h1, h2 {
+    color: MidnightBlue;
+}
+
+h3, h4 {
+    color: Maroon;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid DimGray;
+}
+
+th, td {
+  text-align: left;
+  padding: 1em;
+}
+
+body {
+    font-size: 11px;
+    word-wrap: break-word;
+}

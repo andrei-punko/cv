@@ -1,5 +1,5 @@
 name: MD to PDF
-# This workflow is triggered on pushes to the `master` branch of repository.
+# This workflow is triggered on pushes to the `master` branch of the repository.
 on:
   push:
     branches:
@@ -8,23 +8,18 @@ on:
     paths:
       - 'CV/**.md'
       - '.github/workflows/convert-md-to-pdf.yml'
+  workflow_dispatch:
+    branches: [ master ]
 
 jobs:
   converttopdf:
-    name: Build PDF from MD
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v2
-      - uses: baileyjm02/markdown-to-pdf@v1
-        with:
-          input_dir: CV
-          output_dir: CV/pdf/
-          # Default is true, can set to false for only get PDF files
-          build_html: false
-      - uses: actions/upload-artifact@v1
-        with:
-          name: andrei-punko-cv
-          path: CV/pdf/Andrei_Punko_CV_(eng).pdf
+
+      - name: Generate PDF from MD
+        run: curl -v --data-urlencode "markdown=$(cat CV/Andrei_Punko_CV_\(eng\).md)" -d "css=$(cat CV/style.css)" --output CV/pdf/Andrei_Punko_CV_\(eng\).pdf https://md-to-pdf.fly.dev
 
       - name: Commit the PDF (if it changed)
         run: |

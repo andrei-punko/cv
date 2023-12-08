@@ -1,8 +1,8 @@
-
 # Andrei Punko
 
 Senior Java backend developer with 12-year experience in the creation of web- and distributed applications
-- Main technology stack – is Java with a standard set of frameworks for backend development
+
+- Main technology stack - is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
 - Able to use Unix command line in the scope of usual backend tasks
 - Have knowledge of common algorithms and data structures
@@ -18,12 +18,12 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 ## Links
 - Github: https://github.com/andrei-punko
 - Youtube: https://www.youtube.com/@andd3dfx
-- This CV in PDF: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
+- This CV: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
 - Belorussian State University. Faculty of Physics. 5 years of education
-
-  Qualification «Physicist-Researcher», specialization «Solid-state physics»
+	- Qualification "Physicist-Researcher"
+	- Specialization "Solid-state physics"
 - English - B1 (Intermediate)
 
 ## Business-Domains
@@ -57,16 +57,16 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 - Likes: coding, swimming
 - Not interested in projects related to gambling, dating, casino, forex or other immoral activity
 
-
 ## Companies / Projects
 
-### Bell Integrator, June 2023 – now (6 months)
+### Bell Integrator, 2023-Jun - now (7 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank - Russian bank
 - Project: Development of microservices for backend of a bank
 - Team Size (devs): 7
 
 Environment:
+
 - Java 15
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers
@@ -76,12 +76,13 @@ Environment:
 - OpenAPI, Swagger
 
 Tasks performed:
-- Build speed-up & optimization
-- Code refactoring
+
 - Integration with external REST APIs
+- Development of new API using OpenAPI
+- Code refactoring
 
 
-### iTechArt, July 2022 – January 2023 (7 months)
+### iTechArt, 2022-Jul - 2023-Jan (7 months)
 - Position: Senior Software Engineer
 - Customer: Altir - American startup (of Soundful product)
 - Project: Migration of Python-based service to Java
@@ -89,6 +90,7 @@ Tasks performed:
 - GitHub profile on a customer account: https://github.com/apunko-altir
 
 Environment:
+
 - Java 11, Python 3
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers, JMeter
@@ -99,6 +101,7 @@ Environment:
 - ClickUp, Swagger
 
 Tasks performed:
+
 - REST API design & implementation
 - Migration of Python code to Java
 - Implementation of hybrid tests for comparison results of run migrated Java code and Python code
@@ -106,13 +109,14 @@ Tasks performed:
 - Manage team of 3 people
 
 
-### Artezio, April 2021 — April 2022 (1 year)
+### Artezio, 2021-Apr - 2022-Apr (1 year)
 - Position: Lead Software Engineer
 - Customer: VTB - Russian bank
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half of year)
 
 Environment:
+
 - Java 11, Lua
 - Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
 - JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
@@ -122,6 +126,7 @@ Environment:
 - Jira, Confluence, Swagger
 
 Tasks performed:
+
 - REST API design & implementation
 - OpenShift services configuration adjustment
 - Setup of logging, monitoring, tracing, audit for services
@@ -129,13 +134,14 @@ Tasks performed:
 - Participation in performance testing
 
 
-### Epam Systems, November 2019 — August 2020 (10 months)
+### Epam Systems, 2019-Nov - 2020-Aug (10 months)
 - Position: Senior Software Engineer
-- Customer: Epam Systems – Outsourcing company
+- Customer: Epam Systems - Outsourcing company
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
 Environment:
+
 - Java 8, Groovy, Go
 - Spring (Core, Boot, Rest, Data), Lombok, MapStruct
 - Corda, Hyperledger (Composer, Fabric)
@@ -147,6 +153,7 @@ Environment:
 - Confluence, Swagger
 
 Tasks performed:
+
 - Design and implement REST API
 - Functional/Performance tests implementation
 - Demo preparation & demonstration
@@ -155,13 +162,14 @@ Tasks performed:
 - Developed several Blockchain-based application prototypes
 
 
-### Epam Systems, April 2019 — October 2019 (7 months)
+### Epam Systems, 2019-Apr - 2019-Oct (7 months)
 - Position: Senior Software Engineer
-- Customer: QVC – German retailer / TV-shop
+- Customer: QVC - German retailer / TV-shop
 - Project: Support development effort for QVC company
 - Team size (devs): 3
 
 Environment:
+
 - Java 6
 - Jackson, iBatis, JiBX, Spring (Core, Rest)
 - JUnit, Mockito
@@ -172,19 +180,21 @@ Environment:
 - JIRA
 
 Tasks performed:
+
 - Implemented integration with external Payment Authorization API with security certificates support
 - Implemented batch jobs with required business logic
 - Documentation preparation
 
 
-### Epam Systems, November 2018 — February 2019 (4 months)
+### Epam Systems, 2018-Nov - 2019-Feb (4 months)
 - Position: Senior Software Engineer
-- Customer: Microsoft – DocFx team
+- Customer: Microsoft - DocFx team
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
 - Team size (devs): 1
 - GitHub repository on a customer account: https://github.com/docascode/docfx-doclet
 
 Environment:
+
 - Java 11
 - Jackson
 - JUnit, Mockito, Jacoco
@@ -193,17 +203,19 @@ Environment:
 - IntelliJ IDEA
 
 Tasks performed:
+
 - Design application architecture
 - Implementation of doclet using modern approach introduced in Java 9
 
 
-### Epam Systems, June 2018 — November 2018 (5 months)
+### Epam Systems, 2018-Jun - 2018-Nov (5 months)
 - Position: Senior Software Engineer
-- Customer: Epic Games – Developer of games and tools
+- Customer: Epic Games - Developer of games and tools
 - Project: Play an owner role of one of microservices for Epic Games Social Platform
 - Team size (devs): 10+
 
 Environment:
+
 - Java 8
 - Spring, JPA, Hibernate, JAX-RS
 - JUnit, Mockito, Gatling
@@ -215,18 +227,20 @@ Environment:
 - JIRA
 
 Tasks performed:
+
 - Made DB performance optimizations
 - Design & implement Cursor API (client cursor as alternative to pagination)
 - Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
 
 
-### Epam Systems, June 2017 — February 2018 (8 months)
+### Epam Systems, 2017-Jun - 2018-Feb (8 months)
 - Position: Senior Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
+- Customer: IHG (Intercontinental Hotels Group) - Worldwide hotel network
 - Project: Development of a loyalty system for IHG hotels network
 - Team size (devs): 40+
 
 Environment:
+
 - Java 8, Groovy
 - Spring (Core, Boot, Rest, Data, Security), Akka, JPA, Hibernate, GWT
 - JUnit, Mockito, JMock, Spock
@@ -238,6 +252,7 @@ Environment:
 - Rally, Swagger, Stash
 
 Tasks performed:
+
 - Design and implement REST API
 - Development of tool to perform members migration from an external system into an existing loyalty system
   with applying to them benefits, tier-level changes, etc. according to business rules
@@ -245,13 +260,14 @@ Tasks performed:
 - Demo preparation & demonstration
 
 
-### Godel technologies, November 2016 — February 2017 (3 months)
+### Godel technologies, 2016-Nov - 2017-Feb (3 months)
 - Position: Java Developer
-- Customer: Extra Energy – British energy provider
+- Customer: Extra Energy - British energy provider
 - Project: Development statistics collector from smart electric counters for European energy supply provider
 - Team Size (devs): 3
 
 Environment:
+
 - Java 8
 - Spring (Boot, Data, Cloud, Integration)
 - JUnit, Mockito
@@ -262,18 +278,20 @@ Environment:
 - Jira, Confluence
 
 Tasks performed:
+
 - CI setup
 - Involved in architecture design activities
 - Participated in R&D activities
 
 
-### Epam Systems, April 2012 — November 2016 (4 years 7 months)
-- Position: (Junior → Middle → Senior) Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) – Worldwide hotel network
+### Epam Systems, 2012-Apr - 2016-Nov (4 years 7 months)
+- Position: (Junior -> Middle -> Senior) Software Engineer
+- Customer: IHG (Intercontinental Hotels Group) - Worldwide hotel network
 - Project: Development of a loyalty system for hotel network
 - Team Size (devs): 40+
 
 Environment:
+
 - Java 6/7
 - Apache CXF, Spring, Apache Camel, Quartz, GWT
 - JUnit, JMock
@@ -285,6 +303,7 @@ Environment:
 - Rally
 
 Tasks performed:
+
 - Designed & developed set of Quartz jobs
 - Adapt existing/Developed new UI components for 2 UI Apps (using GWT)
 - Add support of second (Chinese) language to the existing UI with translation ability
@@ -292,17 +311,19 @@ Tasks performed:
 - Mentoring & support of new team members
 
 
-### Epam Systems, October 2011 — April 2012 (6 months)
+### Epam Systems, 2011-Oct - 2012-Apr (6 months)
 - Position: Junior Software Engineer
 - Customer: -
 - Project: Studying in Java-laboratory
 - Team Size (devs): 1
 
 Environment:
+
 - Java 6
 - Spring, JPA, Hibernate, SQL, JavaScript, jQuery, JSF
 - Oracle
 - NetBeans, Tomcat
 
 Tasks performed:
+
 - Implemented 10 typical Java-laboratory tasks & bonus task - "Reversi" game
