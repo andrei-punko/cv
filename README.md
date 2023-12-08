@@ -6,13 +6,9 @@
 
 [Andrei_Punko_CV_(eng).md](CV/Andrei_Punko_CV_(eng).md)
 
-[Andrei_Punko_CV_(rus).md](CV/Andrei_Punko_CV_(rus).md)
-
 ## CV (to download)
 
 [Andrei_Punko_CV_(eng).pdf](CV/pdf/Andrei_Punko_CV_(eng).pdf)
-
-[Andrei_Punko_CV_(rus).pdf](CV/pdf/Andrei_Punko_CV_(rus).pdf)
 
 ## FAQ
 
