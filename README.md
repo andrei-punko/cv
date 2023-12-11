@@ -1,17 +1,30 @@
-# CV and related stuff
+# CV and other hiring-related stuff
 
 [![MD to PDF](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml/badge.svg)](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml)
 
-## CV (to read)
+## CV
 
-[Andrei_Punko_CV_(eng).md](CV/Andrei_Punko_CV_(eng).md)
+### Generation process description
+- Adjust CV [source](CV/Andrei_Punko_CV_(eng).md) in Markdown format
+- Adjust [style](CV/style.css) if needed
+- Run [shell script](CV/generate-pdf.sh) if you need to generate CV locally or
+- Push changes into repo to generate CV using GitHub actions workflow
 
-## CV (to download)
+### Generation output
 
-[Andrei_Punko_CV_(eng).pdf](CV/pdf/Andrei_Punko_CV_(eng).pdf)
+[Generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format
 
-## FAQ
-
+## Communication with recruiter
 [Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
 [Вопросы потенциальному работодателю](QnA/Вопросы%20потенциальному%20работодателю.md)
+
+## Self-presentation for an interview
+Self-presentation [manual](Self-presentation/Self-presentation%20manual.pdf)
+
+[Самопрезентация](Self-presentation/Self-presentation_(rus).md)
+
+## Newcomer introduction in a new company
+[Newcomer introduction](Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
+
+[Представление сотрудника](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
