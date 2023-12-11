@@ -6,10 +6,10 @@ on:
       - master
     # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
     paths:
-      - 'CV/**.md'
+      - 'CV/*.md'
+      - 'CV/*.css'
       - '.github/workflows/convert-md-to-pdf.yml'
   workflow_dispatch:
-    branches: [ master ]
 
 jobs:
   converttopdf:
