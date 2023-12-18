@@ -1,10 +1,8 @@
 name: MD to PDF
-# This workflow is triggered on pushes to the `master` branch of the repository.
 on:
   push:
-    branches:
-      - master
-    # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
+    branches: [ master ]
+    # Paths can be used to only trigger actions when you have edited certain files
     paths:
       - 'CV/*.md'
       - 'CV/*.css'
@@ -12,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  converttopdf:
+  convert-to-pdf:
     runs-on: ubuntu-latest
 
     steps:

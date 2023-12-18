@@ -24,7 +24,7 @@ Self-presentation [manual](Self-presentation/Self-presentation%20manual.pdf)
 
 [Самопрезентация](Self-presentation/Self-presentation_(rus).md)
 
-## Newcomer introduction in a new company
+## Newcomer introduction to a new company
 [Newcomer introduction](Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
 
 [Представление сотрудника](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
