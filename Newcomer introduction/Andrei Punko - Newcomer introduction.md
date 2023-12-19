@@ -23,6 +23,7 @@ using Java language on my YouTube channel [Java coding interview](https://www.yo
 
 What about books: I prefer technical literature (related to my specialization) and philosophical books
 (written by Eastern Orthodox fathers).
+To refresh consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/books) I have read
 
 What about programming:
 - used Basic in childhood / early years (before 1998),
