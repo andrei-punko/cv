@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Generate PDF from MD
         run: curl -v --data-urlencode "markdown=$(cat CV/Andrei_Punko_CV_\(eng\).md)" -d "css=$(cat CV/style.css)" --output CV/pdf/Andrei_Punko_CV_\(eng\).pdf https://md-to-pdf.fly.dev
