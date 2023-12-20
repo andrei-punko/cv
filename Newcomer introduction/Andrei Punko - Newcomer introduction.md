@@ -1,7 +1,7 @@
 
 # Andrei Punko - Newcomer introduction
 
-![image info](../images/Andrei_Punko_photo_informal_(forest).jpg)
+![image info](../photos/Andrei_Punko_photo_informal.jpg)
 
 Hello
 
