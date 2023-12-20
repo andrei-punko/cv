@@ -6,13 +6,10 @@
 
 ### Generation process description
 - Adjust CV [source](CV/Andrei_Punko_CV_(eng).md) in Markdown format
-- Adjust [style](CV/style.css) if needed
+- Adjust CSS [style](CV/style.css) if needed
 - Run [shell script](CV/generate-pdf.sh) if you need to generate CV locally or
-- Push changes into repo to generate CV using GitHub actions workflow
-
-### Generation output
-
-[Generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format
+- Push changes into [repo](https://github.com/andrei-punko/cv) to generate CV using GitHub actions [workflow](.github/workflows/convert-md-to-pdf.yml)
+- Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from `CV/pdf/` folder
 
 ## Communication with recruiter
 [Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
