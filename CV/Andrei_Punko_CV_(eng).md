@@ -31,7 +31,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 - Travelling
 - Documentation
 - Entertainment
-- Instrumentation
+- Blockchain
 
 ## Key skills
 - Java 6-8/11/17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
