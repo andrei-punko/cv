@@ -79,7 +79,7 @@ Environment:
 Tasks performed:
 
 - Integration with external REST APIs
-- Development of new API using OpenAPI
+- Development of new APIs using OpenAPI approach
 - Code refactoring
 
 
