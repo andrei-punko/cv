@@ -3,7 +3,11 @@ h1, h2 {
     color: MidnightBlue;
 }
 
-h3, h4 {
+h3 {
+    color: Teal;
+}
+
+h4 {
     color: Maroon;
 }
 

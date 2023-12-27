@@ -59,9 +59,10 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 
 ## Companies / Projects
 
-### Bell Integrator, 2023-Jun - now (7 months)
+### Bell Integrator
+#### 2023-Jun - now (7 months)
 - Position: Senior Software Engineer
-- Customer: Sberbank - Russian bank
+- Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
 - Team Size (devs): 7
 
@@ -82,10 +83,11 @@ Tasks performed:
 - Code refactoring
 
 
-### iTechArt, 2022-Jul - 2023-Jan (7 months)
+### iTechArt
+#### 2022-Jul - 2023-Jan (7 months)
 - Position: Senior Software Engineer
-- Customer: Altir - American startup (of Soundful product)
-- Project: Migration of Python-based service to Java
+- Customer: Altir (American startup)
+- Project: Migration of Python-based service to Java for Soundful product
 - Team Size (devs): 1-3
 - GitHub profile on a customer account: https://github.com/apunko-altir
 
@@ -109,9 +111,10 @@ Tasks performed:
 - Manage team of 3 people
 
 
-### Artezio, 2021-Apr - 2022-Apr (1 year)
+### Artezio
+#### 2021-Apr - 2022-Apr (1 year)
 - Position: Lead Software Engineer
-- Customer: VTB - Russian bank
+- Customer: VTB (Russian bank)
 - Project: Development of ATM backend (7 services)
 - Team Size (devs): 9 (half year), 3 (half of year)
 
@@ -134,9 +137,31 @@ Tasks performed:
 - Participation in performance testing
 
 
-### Epam Systems, 2019-Nov - 2020-Aug (10 months)
+### Epam Systems
+#### 2020-Sep - 2020-Oct (2 months)
 - Position: Senior Software Engineer
-- Customer: Epam Systems - Outsourcing company
+- Customer: Amazon
+- Project: Development of software for a home security device
+- Team size (devs): 5
+
+Environment:
+
+- Proprietary framework for web-services development
+- Proprietary build tool
+- Git, Docker
+- AWS cloud
+- Intellij IDEA
+
+Tasks performed:
+
+- Implement API & tests for it
+- Development of some CI pipeline parts
+- Painful usage of proprietary tools on VM environment
+
+
+#### 2019-Nov - 2020-Aug (10 months)
+- Position: Senior Software Engineer
+- Customer: Epam Systems (Outsource company)
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
@@ -162,9 +187,9 @@ Tasks performed:
 - Developed several Blockchain-based application prototypes
 
 
-### Epam Systems, 2019-Apr - 2019-Oct (7 months)
+#### 2019-Apr - 2019-Oct (7 months)
 - Position: Senior Software Engineer
-- Customer: QVC - German retailer / TV-shop
+- Customer: QVC (German retailer / TV-shop)
 - Project: Support development effort for QVC company
 - Team size (devs): 3
 
@@ -186,9 +211,9 @@ Tasks performed:
 - Documentation preparation
 
 
-### Epam Systems, 2018-Nov - 2019-Feb (4 months)
+#### 2018-Nov - 2019-Feb (4 months)
 - Position: Senior Software Engineer
-- Customer: Microsoft - DocFx team
+- Customer: Microsoft
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
 - Team size (devs): 1
 - GitHub repository on a customer account: https://github.com/docascode/docfx-doclet
@@ -208,9 +233,9 @@ Tasks performed:
 - Implementation of doclet using modern approach introduced in Java 9
 
 
-### Epam Systems, 2018-Jun - 2018-Nov (5 months)
+#### 2018-Jun - 2018-Nov (5 months)
 - Position: Senior Software Engineer
-- Customer: Epic Games - Developer of games and tools
+- Customer: Epic Games (Developer of games and tools)
 - Project: Play an owner role of one of microservices for Epic Games Social Platform
 - Team size (devs): 10+
 
@@ -233,9 +258,9 @@ Tasks performed:
 - Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
 
 
-### Epam Systems, 2017-Jun - 2018-Feb (8 months)
+#### 2017-Jun - 2018-Feb (8 months)
 - Position: Senior Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) - Worldwide hotel network
+- Customer: Intercontinental Hotels Group (Worldwide hotel network)
 - Project: Development of a loyalty system for IHG hotels network
 - Team size (devs): 40+
 
@@ -260,9 +285,10 @@ Tasks performed:
 - Demo preparation & demonstration
 
 
-### Godel technologies, 2016-Nov - 2017-Feb (3 months)
+### Godel technologies
+#### 2016-Nov - 2017-Feb (3 months)
 - Position: Java Developer
-- Customer: Extra Energy - British energy provider
+- Customer: Extra Energy (British energy provider)
 - Project: Development statistics collector from smart electric counters for European energy supply provider
 - Team Size (devs): 3
 
@@ -284,9 +310,10 @@ Tasks performed:
 - Participated in R&D activities
 
 
-### Epam Systems, 2012-Apr - 2016-Nov (4 years 7 months)
+### Epam Systems
+#### 2012-Apr - 2016-Nov (4 years 7 months)
 - Position: (Junior -> Middle -> Senior) Software Engineer
-- Customer: IHG (Intercontinental Hotels Group) - Worldwide hotel network
+- Customer: Intercontinental Hotels Group (Worldwide hotel network)
 - Project: Development of a loyalty system for hotel network
 - Team Size (devs): 40+
 
@@ -311,7 +338,7 @@ Tasks performed:
 - Mentoring & support of new team members
 
 
-### Epam Systems, 2011-Oct - 2012-Apr (6 months)
+#### 2011-Oct - 2012-Apr (6 months)
 - Position: Junior Software Engineer
 - Customer: -
 - Project: Studying in Java-laboratory
