@@ -1,11 +1,10 @@
-name: MD to PDF
+name: Markdown to PDF
 on:
   push:
     branches: [ master ]
-    # Paths can be used to only trigger actions when you have edited certain files
-    paths:
+    paths:    # Paths can be used to only trigger actions when you have edited certain files
       - 'CV/*.md'
-      - 'CV/*.css'
+      - 'CV/style.css'
       - '.github/workflows/convert-md-to-pdf.yml'
   workflow_dispatch:
 
@@ -16,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate PDF from MD
+      - name: Generate CV in PDF from source in MD format
         run: curl -v --data-urlencode "markdown=$(cat CV/Andrei_Punko_CV_\(eng\).md)" -d "css=$(cat CV/style.css)" --output CV/pdf/Andrei_Punko_CV_\(eng\).pdf https://md-to-pdf.fly.dev
 
       - name: Commit the PDF (if it changed)
