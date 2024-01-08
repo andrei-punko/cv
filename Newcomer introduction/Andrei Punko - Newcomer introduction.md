@@ -18,9 +18,6 @@ Before arriving to a current project, I worked on:
 My hobbies in early years were reading, electronic device construction, programming and wood carving,
 but during last years I mostly prefer just programming.
 
-From time to time I publish videos with a solution of some tasks
-using Java language on my YouTube channel [Java coding interview](https://www.youtube.com/@andd3dfx)
-
 What about books: I prefer technical literature (related to my specialization) and philosophical books
 (written by Eastern Orthodox fathers).
 To refresh consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/books) I have read
@@ -34,7 +31,5 @@ What about programming:
 - probably will switch from Java to Kotlin mostly in future to write less code
 
 To stay healthy, I usually use walks / swimming.
-To track progress / statistics, I use Garmin watches.
-[Profile](https://connect.garmin.com/modern/profile/754a6849-312d-4bcc-bda2-631f5ebe0477) in Garmin cloud shared for public access 
 
 Glad to meet you!

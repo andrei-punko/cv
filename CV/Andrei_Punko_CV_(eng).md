@@ -17,7 +17,6 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 
 ## Links
 - Github: https://github.com/andrei-punko
-- Youtube: https://www.youtube.com/@andd3dfx
 - This CV: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
