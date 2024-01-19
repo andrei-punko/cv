@@ -12,9 +12,9 @@
 - Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from `CV/pdf/` folder
 
 ## Communication with recruiter
-[Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
+[Ответы на типичные вопросы рекрутера](Q&A/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
-[Вопросы потенциальному работодателю](QnA/Вопросы%20потенциальному%20работодателю.md)
+[Вопросы потенциальному работодателю](Q&A/Вопросы%20потенциальному%20работодателю.md)
 
 ## Self-presentation for an interview
 Self-presentation [manual](Self-presentation/Self-presentation%20manual.pdf)
