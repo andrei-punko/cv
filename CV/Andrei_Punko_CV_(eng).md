@@ -1,6 +1,6 @@
 # Andrei Punko
 
-Senior Java backend developer with 12-year experience in the creation of web- and distributed applications
+Senior Java backend developer with 13-years experience in the creation of web- and distributed applications
 
 - Main technology stack - is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
@@ -33,7 +33,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 - Blockchain
 
 ## Key skills
-- Java 6-8/11/17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
+- Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
 - H2, Oracle, PostgreSQL, Redis, Tarantool
@@ -59,7 +59,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 ## Companies / Projects
 
 ### Bell Integrator
-#### 2023-Jun - now (7 months)
+#### 2023-Jun - now (11 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
@@ -67,7 +67,7 @@ Senior Java backend developer with 12-year experience in the creation of web- an
 
 Environment:
 
-- Java 15
+- Java 15/17
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
