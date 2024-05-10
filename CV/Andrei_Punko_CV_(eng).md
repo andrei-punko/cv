@@ -54,12 +54,12 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming
-- Not interested in projects related to gambling, dating, casino, forex or other immoral activity
+- Not interested in projects related to gambling, casino, forex, dating or other immoral activity
 
 ## Companies / Projects
 
 ### Bell Integrator
-#### 2023-Jun - now (11 months)
+#### 2023-Jun - now (1 year)
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
@@ -79,7 +79,7 @@ Tasks performed:
 
 - Integration with external REST APIs
 - Development of new APIs using OpenAPI approach
-- Code refactoring
+- Code refactoring & review
 
 
 ### iTechArt
@@ -107,6 +107,7 @@ Tasks performed:
 - Migration of Python code to Java
 - Implementation of hybrid tests for comparison results of run migrated Java code and Python code
 - Documentation preparation, knowledge transferring, code review, preparation & showing demo
+- Organization of knowledge transferring sessions
 - Manage team of 3 people
 
 
