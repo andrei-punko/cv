@@ -27,10 +27,10 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 
 ## Business-Domains
 - FinTech
-- Travelling
-- Documentation
 - Entertainment
 - Blockchain
+- Documentation
+- Travelling
 
 ## Key skills
 - Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
@@ -59,11 +59,11 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 ## Companies / Projects
 
 ### Bell Integrator
-#### 2023-Jun - now (1 year)
+#### 2023-Jun - now (1 year 1 month)
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
-- Team Size (devs): 7
+- Team Size (devs): 8
 
 Environment:
 
@@ -341,7 +341,7 @@ Tasks performed:
 #### 2011-Oct - 2012-Apr (6 months)
 - Position: Junior Software Engineer
 - Customer: -
-- Project: Studying in Java-laboratory
+- Project: Studying in Java laboratory
 - Team Size (devs): 1
 
 Environment:
