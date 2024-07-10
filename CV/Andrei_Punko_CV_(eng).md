@@ -59,7 +59,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 ## Companies / Projects
 
 ### Bell Integrator
-#### 2023-Jun - now (1 year 1 month)
+#### 2023-Jun - now (1 year 2 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
