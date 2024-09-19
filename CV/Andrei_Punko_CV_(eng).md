@@ -44,7 +44,6 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 - ActiveMQ / RabbitMQ
 - REST API, Microservices, ELK, Grafana
 - AWS, Docker, Openshift
-- Corda DLT (certified Corda developer)
 - Software Development Principles and Concepts, Design Pattern (MVC, MVP, SOLID)
 - Intellij IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
@@ -59,11 +58,11 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 ## Companies / Projects
 
 ### Bell Integrator
-#### 2023-Jun - now (1 year 3 months)
+#### 2023-Jun - now (1 year 4 months)
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
-- Team Size (devs): 8
+- Team Size (devs): 6-8
 
 Environment:
 
