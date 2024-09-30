@@ -1,7 +1,7 @@
 
 # Andrei Punko - Newcomer introduction
 
-![image info](../photos/Andrei_Punko_photo_informal.jpg)
+<img src="../photos/Andrei_Punko_photo_informal.jpg" alt="drawing" width="175"/>
 
 Hello
 
