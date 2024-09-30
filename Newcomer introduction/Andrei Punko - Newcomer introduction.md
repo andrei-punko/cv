@@ -13,7 +13,11 @@ Before arriving to a current project, I worked on:
 - BMC as an electronics engineer and software developer who worked on prototyping of a device for diesel fuels testing
 - Epam Systems / Godel Technologies / Artezio / iTechArt / Bell Integrator as a software engineer
   who used Java stack mostly on different projects related to next domains:
-  Travel / FinTech / Documentation / Blockchain / Entertainment
+  - FinTech
+  - Entertainment
+  - Blockchain
+  - Documentation
+  - Travelling
 
 My hobbies in early years were reading, electronic device construction, programming and wood carving,
 but during last years I mostly prefer just programming.
