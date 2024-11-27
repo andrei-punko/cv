@@ -1,4 +1,3 @@
-
 # Andrei Punko - Newcomer introduction
 
 <img src="../photos/Andrei_Punko_photo_informal.jpg" alt="drawing" width="175"/>
@@ -8,16 +7,17 @@ Hello
 Some time ago I graduated from Belarusian State University with Physicist-Researcher specialization.
 
 Before arriving to a current project, I worked on:
+
 - BSUIR as a scientist / researcher who performed modeling of physical processes
 - Linline as an electronics engineer who participated in construction and tuning of electronics for cosmetology lasers
 - BMC as an electronics engineer and software developer who worked on prototyping of a device for diesel fuels testing
 - Epam Systems / Godel Technologies / Artezio / iTechArt / Bell Integrator as a software engineer
   who used Java stack mostly on different projects related to next domains:
-  - FinTech
-  - Entertainment
-  - Blockchain
-  - Documentation
-  - Travelling
+    - FinTech
+    - Entertainment
+    - Blockchain
+    - Documentation
+    - Travelling
 
 My hobbies in early years were reading, electronic device construction, programming and wood carving,
 but during last years I mostly prefer just programming.
@@ -27,6 +27,7 @@ What about books: I prefer technical literature (related to my specialization) a
 To refresh consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/books) I have read
 
 What about programming:
+
 - used Basic in childhood / early years (before 1998),
 - used Pascal / C for modeling in university (1998-2011),
 - used C for microcontrollers programming (2008-2011),

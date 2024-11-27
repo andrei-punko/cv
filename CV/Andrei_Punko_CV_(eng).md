@@ -11,21 +11,25 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 - Likes clean & tested code, refactoring, write documentation
 
 ## Contacts
+
 - Telegram: `@andreipunko`
 - E-Mail: `andd3dfx@gmail.com`
 - Skype: `andrei.punko`
 
 ## Links
+
 - Github: https://github.com/andrei-punko
 - This CV: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
+
 - Belorussian State University. Faculty of Physics. 5 years of education
-	- Qualification "Physicist-Researcher"
-	- Specialization "Solid-state physics"
+    - Qualification "Physicist-Researcher"
+    - Specialization "Solid-state physics"
 - English - B1 (Intermediate)
 
 ## Business-Domains
+
 - FinTech
 - Entertainment
 - Blockchain
@@ -33,6 +37,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 - Travelling
 
 ## Key skills
+
 - Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
 - Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
@@ -50,6 +55,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
 ## Additional information
+
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming
@@ -58,7 +64,9 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 ## Companies / Projects
 
 ### Bell Integrator
+
 #### 2023-Jun - now (1 year 4 months)
+
 - Position: Senior Software Engineer
 - Customer: Sberbank (Russian bank)
 - Project: Development of microservices for backend of a bank
@@ -80,9 +88,10 @@ Tasks performed:
 - Development of new APIs using OpenAPI approach
 - Code refactoring & review
 
-
 ### iTechArt
+
 #### 2022-Jul - 2023-Jan (7 months)
+
 - Position: Senior Software Engineer
 - Customer: Altir (American startup)
 - Project: Migration of Python-based service to Java for Soundful product
@@ -109,9 +118,10 @@ Tasks performed:
 - Organization of knowledge transferring sessions
 - Manage team of 3 people
 
-
 ### Artezio
+
 #### 2021-Apr - 2022-Apr (1 year)
+
 - Position: Lead Software Engineer
 - Customer: VTB (Russian bank)
 - Project: Development of ATM backend (7 services)
@@ -135,9 +145,10 @@ Tasks performed:
 - Documentation preparation, knowledge transferring, code review
 - Participation in performance testing
 
-
 ### Epam Systems
+
 #### 2020-Sep - 2020-Oct (2 months)
+
 - Position: Senior Software Engineer
 - Customer: Amazon
 - Project: Development of software for a home security device
@@ -157,8 +168,8 @@ Tasks performed:
 - Development of some CI pipeline parts
 - Painful usage of proprietary tools on VM environment
 
-
 #### 2019-Nov - 2020-Aug (10 months)
+
 - Position: Senior Software Engineer
 - Customer: Epam Systems (Outsource company)
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
@@ -185,8 +196,8 @@ Tasks performed:
 - Passed Corda certification (private blockchain)
 - Developed several Blockchain-based application prototypes
 
-
 #### 2019-Apr - 2019-Oct (7 months)
+
 - Position: Senior Software Engineer
 - Customer: QVC (German retailer / TV-shop)
 - Project: Support development effort for QVC company
@@ -209,8 +220,8 @@ Tasks performed:
 - Implemented batch jobs with required business logic
 - Documentation preparation
 
-
 #### 2018-Nov - 2019-Feb (4 months)
+
 - Position: Senior Software Engineer
 - Customer: Microsoft
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
@@ -231,8 +242,8 @@ Tasks performed:
 - Design application architecture
 - Implementation of doclet using modern approach introduced in Java 9
 
-
 #### 2018-Jun - 2018-Nov (5 months)
+
 - Position: Senior Software Engineer
 - Customer: Epic Games (Developer of games and tools)
 - Project: Play an owner role of one of microservices for Epic Games Social Platform
@@ -256,8 +267,8 @@ Tasks performed:
 - Design & implement Cursor API (client cursor as alternative to pagination)
 - Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
 
-
 #### 2017-Jun - 2018-Feb (8 months)
+
 - Position: Senior Software Engineer
 - Customer: Intercontinental Hotels Group (Worldwide hotel network)
 - Project: Development of a loyalty system for IHG hotels network
@@ -283,9 +294,10 @@ Tasks performed:
 - Functional tests implementation
 - Demo preparation & demonstration
 
-
 ### Godel technologies
+
 #### 2016-Nov - 2017-Feb (3 months)
+
 - Position: Java Developer
 - Customer: Extra Energy (British energy provider)
 - Project: Development statistics collector from smart electric counters for European energy supply provider
@@ -308,9 +320,10 @@ Tasks performed:
 - Involved in architecture design activities
 - Participated in R&D activities
 
-
 ### Epam Systems
+
 #### 2012-Apr - 2016-Nov (4 years 7 months)
+
 - Position: (Junior -> Middle -> Senior) Software Engineer
 - Customer: Intercontinental Hotels Group (Worldwide hotel network)
 - Project: Development of a loyalty system for hotel network
@@ -336,8 +349,8 @@ Tasks performed:
 - Developed tool for batch tokenization of 180 million credit cards
 - Mentoring & support of new team members
 
-
 #### 2011-Oct - 2012-Apr (6 months)
+
 - Position: Junior Software Engineer
 - Customer: -
 - Project: Studying in Java laboratory
