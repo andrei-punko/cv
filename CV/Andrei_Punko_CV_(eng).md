@@ -19,6 +19,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 ## Links
 
 - Github: https://github.com/andrei-punko
+- Youtube: https://www.youtube.com/@andd3dfx
 - This CV: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
 
 ## Education
@@ -58,17 +59,17 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
-- Likes: coding, swimming
-- Not interested in projects related to gambling, casino, forex, dating or other immoral activity
+- Likes: coding, swimming, reading
+- Not interested in projects related to gambling, forex, dating or other immoral activity
 
 ## Companies / Projects
 
 ### Bell Integrator
 
-#### 2023-Jun - now (1 year 4 months)
+#### 2023-Jun - now (1 year 6 months)
 
 - Position: Senior Software Engineer
-- Customer: Sberbank (Russian bank)
+- Customer: Sberbank (largest bank in Russia and Eastern Europe)
 - Project: Development of microservices for backend of a bank
 - Team Size (devs): 6-8
 
@@ -86,7 +87,7 @@ Tasks performed:
 
 - Integration with external REST APIs
 - Development of new APIs using OpenAPI approach
-- Code refactoring & review
+- Code review
 
 ### iTechArt
 
@@ -123,8 +124,8 @@ Tasks performed:
 #### 2021-Apr - 2022-Apr (1 year)
 
 - Position: Lead Software Engineer
-- Customer: VTB (Russian bank)
-- Project: Development of ATM backend (7 services)
+- Customer: VTB (one of TOP-3 Russian banks)
+- Project: Development of ATM backend (7 microservices)
 - Team Size (devs): 9 (half year), 3 (half of year)
 
 Environment:
