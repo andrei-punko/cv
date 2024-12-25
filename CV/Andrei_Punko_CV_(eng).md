@@ -1,6 +1,6 @@
 # Andrei Punko
 
-Senior Java backend developer with 13-years experience in the creation of web- and distributed applications
+Senior Java backend developer with 12+ years experience in the creation of web- and distributed applications
 
 - Main technology stack - is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
@@ -12,7 +12,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 
 ## Contacts
 
-- Telegram: `@andreipunko`
+- Telegram: `@andreipunko` (preferred)
 - E-Mail: `andd3dfx@gmail.com`
 - Skype: `andrei.punko`
 
@@ -66,7 +66,7 @@ Senior Java backend developer with 13-years experience in the creation of web- a
 
 ### Bell Integrator
 
-#### 2023-Jun - now (1 year 6 months)
+#### 2023-Jun - 2025-Jan (1 year 7 months)
 
 - Position: Senior Software Engineer
 - Customer: Sberbank (largest bank in Russia and Eastern Europe)
