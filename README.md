@@ -4,7 +4,12 @@
 
 ## CV
 
-### Generation process description
+### Available in formats:
+
+- [Markdown](CV/Andrei_Punko_CV_(eng).md)
+- [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf)
+
+### PDF by Markdown generation process description
 
 - Adjust CV [source](CV/Andrei_Punko_CV_(eng).md) in Markdown format
 - Adjust CSS [style](CV/style.css) if needed
@@ -15,18 +20,18 @@
 
 ## Communication with recruiter
 
-[Ответы на типичные вопросы рекрутера](Q&A/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
+[Answers for typical recruiter questions (RUS)](Q&A/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
-[Вопросы потенциальному работодателю](Q&A/Вопросы%20потенциальному%20работодателю.md)
+[Questions to the potential employer (RUS)](Q&A/Вопросы%20потенциальному%20работодателю.md)
 
 ## Self-presentation for an interview
 
 Self-presentation [manual](Self-presentation/Self-presentation%20manual.pdf)
 
-[Самопрезентация](Self-presentation/Self-presentation_(rus).md)
+[Self-presentation (RUS)](Self-presentation/Self-presentation_(rus).md)
 
 ## Newcomer introduction to a new company
 
 [Newcomer introduction](Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
 
-[Представление сотрудника](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
+[Newcomer introduction (RUS)](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
