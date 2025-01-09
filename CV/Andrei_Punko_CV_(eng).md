@@ -60,7 +60,8 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming, reading
-- Not interested in projects related to gambling, forex, dating or other immoral activity
+- Not interested in projects related to gambling, forex, dating, advertising or other immoral activity
+- Not interested in projects related to Russian government, prefer to work with EU and US customers
 
 ## Companies / Projects
 
