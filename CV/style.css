@@ -14,3 +14,7 @@ body {
     font-size: 10.5px;
     word-wrap: break-word;
 }
+
+@page {
+    margin: 0.7cm 2.2cm;
+}
