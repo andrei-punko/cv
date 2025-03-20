@@ -1,20 +1,53 @@
 h1, h2 {
     color: MidnightBlue;
+    margin-top: 1.2em;
+    margin-bottom: 0.5em;
 }
 
 h3 {
     color: Teal;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
 }
 
 h4 {
     color: Maroon;
+    margin-top: 0.8em;
+    margin-bottom: 0.3em;
 }
 
 body {
     font-size: 10.5px;
     word-wrap: break-word;
+    line-height: 1.4;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+p {
+    margin: 0.5em 0;
+}
+
+ul, ol {
+    margin: 0.5em 0;
+    padding-left: 1.5em;
+}
+
+li {
+    margin: 0.2em 0;
+}
+
+a {
+    color: #004499 !important;
+    text-decoration: none;
+}
+
+/* Стили для ссылок в списках после заголовков h2 */
+h2 + ul a {
+    color: #004499;
+    text-decoration: none;
 }
 
 @page {
-    margin: 0.7cm 2.2cm;
+    margin: 0.6cm 2.2cm;
 }

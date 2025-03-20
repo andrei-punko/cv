@@ -12,15 +12,15 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 
 ## Contacts
 
-- Telegram: `@andreipunko` (preferred)
-- E-Mail: `andd3dfx@gmail.com`
-- Skype: `andrei.punko`
+- Telegram: [@andreipunko](https://t.me/andreipunko) (preferred)
+- E-Mail: [andd3dfx@gmail.com](mailto:andd3dfx@gmail.com)
+- Skype: [andrei.punko](skype:andrei.punko?chat)
 
 ## Links
 
-- Github: https://github.com/andrei-punko
-- Youtube: https://www.youtube.com/@andd3dfx
-- This CV: https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf
+- Github: [andrei-punko](https://github.com/andrei-punko)
+- Youtube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
+- This CV: [Andrei_Punko_CV_(eng).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf)
 
 ## Education
 
