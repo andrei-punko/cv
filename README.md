@@ -4,19 +4,16 @@
 
 ## CV
 
-### Available in formats:
+In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng).md) format
 
-- [Markdown](CV/Andrei_Punko_CV_(eng).md)
-- [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf)
-
-### PDF by Markdown generation process description
+## PDF from Markdown generation process description
 
 - Adjust CV [source](CV/Andrei_Punko_CV_(eng).md) in Markdown format
 - Adjust CSS [style](CV/style.css) if needed
 - Run [shell script](CV/generate-pdf.sh) if you need to generate CV locally or
 - Push changes into [repo](https://github.com/andrei-punko/cv) to generate CV using GitHub
   actions [workflow](.github/workflows/convert-md-to-pdf.yml)
-- Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from `CV/pdf/` folder
+- Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from `./CV/pdf` folder
 
 ## Communication with recruiter
 
