@@ -32,7 +32,7 @@ What about books:
 - I prefer technical literature (related to my specialization) and
 - Philosophical books (written by Eastern Orthodox fathers).
 
-To organize consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/books) I have read
+To organize consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/book-reading-tracker) I have read
 
 What about programming:
 - used Basic in childhood / early years (before 1998),
