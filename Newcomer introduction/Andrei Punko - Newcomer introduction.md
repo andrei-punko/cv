@@ -19,20 +19,21 @@ Before arriving to a current project, I worked on:
   - Bell Integrator
 
   and used Java stack mostly on different projects related to next domains:
-    - FinTech
-    - Entertainment
-    - Blockchain
-    - Documentation
-    - Travelling
+  - FinTech
+  - Entertainment
+  - Blockchain
+  - Documentation
+  - Travelling
 
 My hobbies in early years were reading, electronic device construction, programming and wood carving,
 but during last years I mostly prefer reading, programming, swimming.
 
-What about books:
-- I prefer technical literature (related to my specialization) and
-- Philosophical books (written by Eastern Orthodox fathers).
+What about books - I prefer:
+- technical literature (related to my specialization) and
+- philosophical books (written by Eastern Orthodox fathers)
 
-To organize consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/book-reading-tracker) I have read
+To organize consumed knowledge, I keep track of [book list](https://github.com/andrei-punko/book-reading-tracker) I have
+read
 
 What about programming:
 - used Basic in childhood / early years (before 1998),
