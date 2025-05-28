@@ -17,9 +17,9 @@ In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng
 </details>
 
 ## Communication with recruiter
-[Answers for typical recruiter questions (RUS)](Q&A/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
+[Answers for typical recruiter questions (RUS)](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
-[Questions to the potential employer (RUS)](Q&A/Вопросы%20потенциальному%20работодателю.md)
+[Questions to the potential employer (RUS)](QnA/Вопросы%20потенциальному%20работодателю.md)
 
 ## Self-presentation for an interview
 [Self-presentation manual](Self-presentation/Self-presentation%20manual.pdf)
