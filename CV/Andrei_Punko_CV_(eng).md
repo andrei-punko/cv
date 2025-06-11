@@ -14,7 +14,6 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 
 - Telegram: [@andreipunko](https://t.me/andreipunko) (preferred)
 - E-Mail: [andd3dfx@gmail.com](mailto:andd3dfx@gmail.com)
-- Skype: [andrei.punko](skype:andrei.punko?chat)
 
 ## Links
 
@@ -60,8 +59,9 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: coding, swimming, reading
-- Not interested in projects related to gambling, forex, dating, advertising or other immoral activity
-- Not interested in projects related to Russian government, prefer to work with EU / US customers
+- Not interested in projects related to gambling, forex, casino or other immoral activity
+- Prefer to avoid if possible projects related to Russian government
+- Remote work format is preferred
 
 ## Companies / Projects
 
