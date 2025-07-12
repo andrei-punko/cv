@@ -1,6 +1,6 @@
 # Andrei Punko
 
-Senior Java backend developer with 12+ years experience in the creation of web- and distributed applications
+Senior Java backend developer with 14 years experience in the creation of web- and distributed applications
 
 - Main technology stack - is Java with a standard set of frameworks for backend development
 - Have hands-on experience with Git and CI tools
@@ -36,22 +36,22 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 - Documentation
 - Travelling
 
-## Key skills
+## Have experience with
 
 - Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
-- Spring (Core, Boot, Data, Rest), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
-- JPA, Hibernate, iBatis, Liquibase / Flyway, SQL
-- H2, Oracle, PostgreSQL, Redis, Tarantool
+- Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
+- JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
+- Oracle, PostgreSQL, H2, Redis, Tarantool
 - JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
-- ActiveMQ / RabbitMQ
-- REST API, Microservices, ELK, Grafana
-- AWS, Docker, Openshift
-- Software Development Principles and Concepts, Design Pattern (MVC, MVP, SOLID)
-- Intellij IDEA, Postman, SoapUI, DBeaver, SQL Developer
+- ActiveMQ, RabbitMQ
 - Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
+- REST API, Microservices
+- AWS, Docker, Openshift, ELK, Grafana
+- Software Development Principles and Concepts, Design Patterns (MVC, MVP, SOLID, DRY, KISS etc)
+- IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
 ## Additional information
@@ -60,7 +60,6 @@ Senior Java backend developer with 12+ years experience in the creation of web- 
 - Timezone: GMT+3
 - Likes: coding, swimming, reading
 - Not interested in projects related to gambling, forex, casino or other immoral activity
-- Prefer to avoid if possible projects related to Russian government
 - Remote work format is preferred
 
 ## Companies / Projects
@@ -81,7 +80,7 @@ Environment:
 - JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
 - Git, Bitbucket
-- Intellij IDEA, DBeaver
+- IDEA, DBeaver
 - OpenAPI, Swagger
 
 Tasks performed:
@@ -108,7 +107,7 @@ Environment:
 - Gradle, Jenkins
 - AWS S3
 - Git, GitHub
-- Intellij IDEA, PyCharm, Postman, DBeaver
+- IDEA, PyCharm, Postman, DBeaver
 - ClickUp, Swagger
 
 Tasks performed:
@@ -136,7 +135,7 @@ Environment:
 - JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
 - Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
-- Intellij IDEA, Postman, Git, Bitbucket
+- IDEA, Postman, Git, Bitbucket
 - Jira, Confluence, Swagger
 
 Tasks performed:
@@ -162,7 +161,7 @@ Environment:
 - Proprietary build tool
 - Git, Docker
 - AWS cloud
-- Intellij IDEA
+- IDEA
 
 Tasks performed:
 
@@ -186,7 +185,7 @@ Environment:
 - JUnit, Mockito, Spock, Gatling, k6
 - Gradle, Jenkins (with DSL)
 - Git, Gitlab
-- Intellij IDEA
+- IDEA
 - Confluence, Swagger
 
 Tasks performed:
@@ -213,7 +212,7 @@ Environment:
 - Oracle Siebel CRM, IBM WebSphere
 - Maven, Jenkins
 - SVN
-- Intellij IDEA
+- IDEA
 - JIRA
 
 Tasks performed:
@@ -237,7 +236,7 @@ Environment:
 - JUnit, Mockito, Jacoco
 - Maven
 - Git, GitHub
-- IntelliJ IDEA
+- IDEA
 
 Tasks performed:
 
@@ -260,7 +259,7 @@ Environment:
 - AWS (EC2, Route53, Elastic, Aurora, CloudWatch)
 - Git, GitHub, Perforce
 - Gradle, TeamCity
-- IntelliJ IDEA
+- IDEA
 - JIRA
 
 Tasks performed:
@@ -285,7 +284,7 @@ Environment:
 - ActiveMQ, RabbitMQ
 - Git, Bitbucket
 - Maven, Gradle, Jenkins
-- IntelliJ IDEA, SoapUI, SQL Developer, DBeaver
+- IDEA, SoapUI, SQL Developer, DBeaver
 - Rally, Swagger, Stash
 
 Tasks performed:
@@ -313,7 +312,7 @@ Environment:
 - JPA, PostgreSQL, Liquibase
 - Maven, Jenkins
 - Git, Bitbucket, Docker
-- Intellij IDEA
+- IDEA
 - Jira, Confluence
 
 Tasks performed:
@@ -340,7 +339,7 @@ Environment:
 - Maven, Jenkins
 - Git, Bitbucket
 - JMS, ActiveMQ
-- SoapUI, NetBeans / Eclipse / IntelliJ IDEA
+- SoapUI, NetBeans / Eclipse / IDEA
 - Rally
 
 Tasks performed:
@@ -367,4 +366,4 @@ Environment:
 
 Tasks performed:
 
-- Implemented 10 typical Java-laboratory tasks & bonus task - "Reversi" game
+- Implemented 10 typical Java-laboratory tasks & bonus task - `Reversi` game
