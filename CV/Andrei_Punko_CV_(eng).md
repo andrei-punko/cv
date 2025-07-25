@@ -17,15 +17,15 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 ## Links
 
-- Github: [andrei-punko](https://github.com/andrei-punko)
-- Youtube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
+- GitHub: [andrei-punko](https://github.com/andrei-punko)
+- YouTube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
 - This CV: [Andrei_Punko_CV_(eng).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(eng).pdf)
 
 ## Education
 
 - Belorussian State University. Faculty of Physics. 5 years of education
-    - Qualification "Physicist-Researcher"
-    - Specialization "Solid-state physics"
+    - Qualification `Physicist-Researcher`
+    - Specialization `Solid-state physics`
 - English - B1 (Intermediate)
 
 ## Business-Domains

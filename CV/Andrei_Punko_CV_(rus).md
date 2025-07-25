@@ -17,15 +17,15 @@
 
 ## Ссылки
 
-- Github: [andrei-punko](https://github.com/andrei-punko)
-- Youtube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
+- GitHub: [andrei-punko](https://github.com/andrei-punko)
+- YouTube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
 - Это CV: [Andrei_Punko_CV_(rus).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf)
 
 ## Образование
 
 - Белорусский государственный университет. Физический факультет. 5 лет обучения
-  - Квалификация "Физик-исследователь"
-  - Специализация "Физика твердого тела"
+  - Квалификация `Физик-исследователь`
+  - Специализация `Физика твердого тела`
 - Английский - B1 (Intermediate)
 
 ## Бизнес-Домены
