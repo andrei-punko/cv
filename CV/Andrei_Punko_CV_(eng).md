@@ -38,9 +38,10 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 ## Have experience with
 
-- Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python
+- Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
+- JSP, Servlets, Struts, JSF
 - Oracle, PostgreSQL, H2, Redis, Tarantool
 - JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
@@ -58,7 +59,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
-- Likes: coding, swimming, reading
+- Likes: reading, coding, swimming
 - Not interested in projects related to gambling, forex, casino or other immoral activity
 - Remote work format is preferred
 
@@ -86,7 +87,7 @@ Environment:
 Tasks performed:
 
 - Integration with external REST APIs
-- Development of new APIs using OpenAPI approach
+- Development of new APIs using OpenAPI
 - Code review
 
 ### iTechArt
@@ -167,7 +168,6 @@ Tasks performed:
 
 - Implement API & tests for it
 - Development of some CI pipeline parts
-- Painful usage of proprietary tools on VM environment
 
 #### 2019-Nov - 2020-Aug (10 months)
 
@@ -241,7 +241,7 @@ Environment:
 Tasks performed:
 
 - Design application architecture
-- Implementation of doclet using modern approach introduced in Java 9
+- Implementation of doclet for DocFx documentation generation using modern approach introduced in Java 9
 
 #### 2018-Jun - 2018-Nov (5 months)
 
@@ -333,9 +333,9 @@ Tasks performed:
 Environment:
 
 - Java 6/7
-- Apache CXF, Spring, Apache Camel, Quartz, GWT
+- CXF, Spring, Camel, Quartz, GWT
 - JUnit, JMock
-- Oracle, JPA, Hibernate
+- Oracle, JPA, Hibernate, SQL
 - Maven, Jenkins
 - Git, Bitbucket
 - JMS, ActiveMQ
@@ -348,6 +348,7 @@ Tasks performed:
 - Adapt existing/Developed new UI components for 2 UI Apps (using GWT)
 - Add support of second (Chinese) language to the existing UI with translation ability
 - Developed tool for batch tokenization of 180 million credit cards
+- Demo preparation & demonstration
 - Mentoring & support of new team members
 
 #### 2011-Oct - 2012-Apr (6 months)
@@ -360,10 +361,12 @@ Tasks performed:
 Environment:
 
 - Java 6
-- Spring, JPA, Hibernate, SQL, JavaScript, jQuery, JSF
-- Oracle
-- NetBeans, Tomcat
+- Spring, JPA, Hibernate
+- JSP, Servlets, Struts, JSF, Tomcat
+- JavaScript, jQuery
+- Oracle, SQL
+- NetBeans
 
 Tasks performed:
 
-- Implemented 10 typical Java-laboratory tasks & bonus task - `Reversi` game
+- Implemented 10 typical Java-lab tasks and bonus task - network game `Reversi`
