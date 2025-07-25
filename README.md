@@ -1,7 +1,7 @@
 # CV and other hiring-related stuff
 [![MD to PDF](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml/badge.svg)](https://github.com/andrei-punko/cv/actions/workflows/convert-md-to-pdf.yml)
 
-## CV
+## CV (eng)
 In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng).md) format
 
 <details>
@@ -15,6 +15,11 @@ In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng
 - Pull new commit from GitHub
 - Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from [CV/pdf](CV/pdf) folder
 </details>
+
+## CV (rus)
+In [PDF](CV/pdf/Andrei_Punko_CV_(rus).pdf) or [Markdown](CV/Andrei_Punko_CV_(rus).md) format
+
+PDF generated manually using [online converter](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/) which supports custom CSS
 
 ## Communication with recruiter
 [Answers for typical recruiter questions (RUS)](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
