@@ -24,11 +24,11 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 ## Education
 
 - Belorussian State University. Faculty of Physics. 5 years of education
-    - Qualification `Physicist-Researcher`
-    - Specialization `Solid-state physics`
+    - Qualification "Physicist-Researcher"
+    - Specialization "Solid-state physics"
 - English - B1 (Intermediate)
 
-## Business-Domains
+## Worked in business-domains
 
 - FinTech
 - Entertainment
@@ -36,7 +36,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 - Documentation
 - Travelling
 
-## Have experience with
+## Has experience with
 
 - Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
@@ -98,7 +98,7 @@ Tasks performed:
 - Customer: Altir (American startup)
 - Project: Migration of Python-based service to Java for Soundful product
 - Team Size (devs): 1-3
-- GitHub profile on a customer account: https://github.com/apunko-altir
+- GitHub profile on a customer account: [https://github.com/apunko-altir](https://github.com/apunko-altir)
 
 Environment:
 
@@ -227,7 +227,7 @@ Tasks performed:
 - Customer: Microsoft
 - Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
 - Team size (devs): 1
-- GitHub repository on a customer account: https://github.com/docascode/docfx-doclet
+- GitHub repository on a customer account: [https://github.com/docascode/docfx-doclet](https://github.com/docascode/docfx-doclet)
 
 Environment:
 
@@ -345,8 +345,8 @@ Environment:
 Tasks performed:
 
 - Designed & developed set of Quartz jobs
-- Adapt existing/Developed new UI components for 2 UI Apps (using GWT)
-- Add support of second (Chinese) language to the existing UI with translation ability
+- Adapt existing / developed new UI components using GWT
+- Add support of Chinese language to the existing UI with EN-CN translation ability
 - Developed tool for batch tokenization of 180 million credit cards
 - Demo preparation & demonstration
 - Mentoring & support of new team members
@@ -369,4 +369,4 @@ Environment:
 
 Tasks performed:
 
-- Implemented 10 typical Java-lab tasks and bonus task - network game `Reversi`
+- Implemented 10 typical Java-lab tasks and bonus task - network game "Reversi"
