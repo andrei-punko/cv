@@ -19,6 +19,7 @@
 
 - Github: [andrei-punko](https://github.com/andrei-punko)
 - Youtube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
+- Это CV: [Andrei_Punko_CV_(rus).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf)
 
 ## Образование
 
@@ -50,7 +51,7 @@
 - Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
 - REST API, Microservices
 - AWS, Docker, Openshift, ELK, Grafana
-- Software Development Principles and Concepts, Design Patterns (MVC, MVP, SOLID, DRY, KISS etc)
+- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - JIRA, Rally, Confluence, Swagger, ClickUp
 

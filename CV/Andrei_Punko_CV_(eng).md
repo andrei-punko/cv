@@ -3,12 +3,12 @@
 Senior Java backend developer with 14 years experience in the creation of web- and distributed applications
 
 - Main technology stack - is Java with a standard set of frameworks for backend development
-- Have hands-on experience with Git and CI tools
+- Has hands-on experience with Git and CI tools
 - Able to use Unix command line in the scope of usual backend tasks
-- Have knowledge of common algorithms and data structures
+- Has knowledge of common algorithms and data structures
 - Able to cover code with a wide range of tests: unit / integration / functional / performance
-- Have some experience in math, physics and numerical modeling
-- Likes clean & tested code, refactoring, write documentation
+- Has some experience in math, physics and numerical modeling
+- Likes clean & tested code, refactoring, writes documentation
 
 ## Contacts
 
@@ -51,7 +51,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 - Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
 - REST API, Microservices
 - AWS, Docker, Openshift, ELK, Grafana
-- Software Development Principles and Concepts, Design Patterns (MVC, MVP, SOLID, DRY, KISS etc)
+- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - JIRA, Rally, Confluence, Swagger, ClickUp
 
