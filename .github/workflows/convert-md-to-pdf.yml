@@ -3,8 +3,7 @@ on:
   push:
     branches: [ master ]
     paths: # Paths can be used to only trigger actions when you have edited certain files
-      - 'CV/*.md'
-      - 'CV/style.css'
+      - 'CV/*.*'
       - '.github/workflows/convert-md-to-pdf.yml'
   workflow_dispatch:
 
