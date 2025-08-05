@@ -17,21 +17,24 @@ In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng
 </details>
 
 ## CV (rus)
-In [PDF](CV/pdf/Andrei_Punko_CV_(rus).pdf) or [Markdown](CV/Andrei_Punko_CV_(rus).md) format
+В [PDF](CV/pdf/Andrei_Punko_CV_(rus).pdf) или [Markdown](CV/Andrei_Punko_CV_(rus).md) формате
 
-PDF generated manually using [online converter](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/) which supports custom CSS
+PDF сгенерирован вручную, используя [online converter](https://apitemplate.io/pdf-tools/convert-markdown-to-pdf/),
+который поддерживает кастомные CSS [стили](CV/style.css)
 
 ## Communication with recruiter
-[Answers for typical recruiter questions (RUS)](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
+[Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
 
-[Questions to the potential employer (RUS)](QnA/Вопросы%20потенциальному%20работодателю.md)
+[Вопросы потенциальному работодателю](QnA/Вопросы%20потенциальному%20работодателю.md)
 
 ## Self-presentation for an interview
-[Self-presentation manual](Self-presentation/Self-presentation%20manual.pdf)
+[Мануал по самопрезентации](Self-presentation/Мануал%20по%20самопрезентации.pdf)
 
-[Self-presentation (RUS)](Self-presentation/Self-presentation_(rus).md)
+[Self-presentation](Self-presentation/Self-presentation.md)
+
+[Самопрезентация](Self-presentation/Самопрезентация.md)
 
 ## Newcomer introduction to a new company
 [Newcomer introduction](Newcomer%20introduction/Andrei%20Punko%20-%20Newcomer%20introduction.md)
 
-[Newcomer introduction (RUS)](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
+[Представление сотрудника](Newcomer%20introduction/Андрей%20Пунько%20-%20Представление%20сотрудника.md)
