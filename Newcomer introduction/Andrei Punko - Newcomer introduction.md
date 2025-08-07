@@ -36,13 +36,12 @@ To organize consumed knowledge, I keep track of [book list](https://github.com/a
 read
 
 What about programming:
-- used Basic in childhood / early years (before 1998),
-- used Pascal / C for modeling in university (1998-2011),
-- used C for microcontrollers programming (2008-2011),
-- use Java as the main language during last time (2011-now),
-- for some projects faced a bit with Groovy / Lua / Python / Go / Kotlin languages
-- probably will switch from Java to Kotlin mostly in future to write less code
+- used Basic in childhood, in early years (before 1998),
+- used Pascal, C/C++ for modeling in the university (1998-2011),
+- used C/C++ for microcontrollers programming (2005-2011),
+- using Java as the main language during last time (2011-now),
+- for some projects faced a bit with Groovy, Lua, Python, Go, Kotlin languages
 
-To stay healthy, I usually use walks / swimming.
+To stay healthy, I usually use walks, swimming.
 
 Glad to meet you!
