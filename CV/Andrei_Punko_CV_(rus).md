@@ -1,6 +1,6 @@
 ﻿# Андрей Пунько
 
-Опытный Java backend разработчик с 14-летним опытом в создании веб- и распределенных приложений
+Опытный Java backend разработчик с 10+ лет опыта в создании веб- и распределенных приложений
 
 - Основной стек технологий – это Java со стандартным набором фреймворков для backend разработки
 - Имеет опыт работы с Git и CI инструментами
@@ -12,7 +12,7 @@
 
 ## Контакты
 
-- Telegram: [@andreipunko](https://t.me/andreipunko) (preferred)
+- Telegram: [@andreipunko](https://t.me/andreipunko)
 - E-Mail: [andd3dfx@gmail.com](mailto:andd3dfx@gmail.com)
 
 ## Ссылки
@@ -30,6 +30,7 @@
 
 ## Работал в бизнес-доменах
 
+- Медицина
 - ФинТех
 - Развлечения
 - Блокчейн
@@ -38,7 +39,7 @@
 
 ## Есть опыт работы с
 
-- Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
+- Java 6-21 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
@@ -53,7 +54,7 @@
 - AWS, Docker, Openshift, ELK, Grafana
 - Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
-- JIRA, Rally, Confluence, Swagger, ClickUp
+- Jira, Rally, Confluence, Swagger, ClickUp
 
 ## Дополнительная информация
 
@@ -64,6 +65,30 @@
 - Удаленный формат работы предпочтителен
 
 ## Компании / Проекты
+
+### CleverDev Software
+
+#### Сентябрь 2025 - сейчас (2 месяца)
+
+- Должность: Старший инженер-программист
+- Заказчик: Американский стартап в медицинском домене
+- Проект: Разработка приложения в сфере медицинского страхования
+- Размер команды (разработчиков): 9
+
+Фреймворки/технологии:
+
+- Java 21
+- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
+- JUnit, Mockito, Testcontainers
+- Maven
+- Git, Bitbucket
+- IDEA, DBeaver
+- Jira, Confluence
+
+Выполнены задачи:
+
+- Миграция проекта со Spring Boot v2 на v3
+- Ревью кода
 
 ### Bell Integrator
 
@@ -212,7 +237,7 @@
 - Maven, Jenkins
 - SVN
 - IDEA
-- JIRA
+- Jira
 
 Выполнены задачи:
 
@@ -259,7 +284,7 @@
 - Git, GitHub, Perforce
 - Gradle, TeamCity
 - IDEA
-- JIRA
+- Jira
 
 Выполнены задачи:
 
