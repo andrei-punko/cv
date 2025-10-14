@@ -1,6 +1,6 @@
 # Andrei Punko
 
-Senior Java backend developer with 14 years experience in the creation of web- and distributed applications
+Senior Java backend developer with 10+ years experience in the creation of web- and distributed applications
 
 - Main technology stack - is Java with a standard set of frameworks for backend development
 - Has hands-on experience with Git and CI tools
@@ -30,6 +30,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 ## Worked in business-domains
 
+- Healthcare
 - FinTech
 - Entertainment
 - Blockchain
@@ -38,7 +39,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 ## Has experience with
 
-- Java 6-17 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
+- Java 6-21 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
@@ -53,7 +54,7 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 - AWS, Docker, Openshift, ELK, Grafana
 - Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
-- JIRA, Rally, Confluence, Swagger, ClickUp
+- Jira, Rally, ClickUp, Confluence, Swagger
 
 ## Additional information
 
@@ -65,13 +66,37 @@ Senior Java backend developer with 14 years experience in the creation of web- a
 
 ## Companies / Projects
 
+### CleverDev Software
+
+#### 2025-Sep - now (2 months)
+
+- Position: Senior Software Engineer
+- Customer: American startup in healthcare domain
+- Project: Development of application for medical insurance
+- Team Size (devs): 9
+
+Environment:
+
+- Java 21
+- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
+- JUnit, Mockito, Testcontainers
+- Maven
+- Git, Bitbucket
+- IDEA, DBeaver
+- Jira, Confluence
+
+Tasks performed:
+
+- Made migration of project from Spring Boot v2 to v3
+- Code review
+
 ### Bell Integrator
 
 #### 2023-Jun - 2025-Jan (1 year 7 months)
 
 - Position: Senior Software Engineer
 - Customer: Sberbank (largest bank in Russia and Eastern Europe)
-- Project: Development of microservices for backend of a bank
+- Project: Development of microservices for backend of bank
 - Team Size (devs): 6-8
 
 Environment:
@@ -213,7 +238,7 @@ Environment:
 - Maven, Jenkins
 - SVN
 - IDEA
-- JIRA
+- Jira
 
 Tasks performed:
 
@@ -260,7 +285,7 @@ Environment:
 - Git, GitHub, Perforce
 - Gradle, TeamCity
 - IDEA
-- JIRA
+- Jira
 
 Tasks performed:
 
