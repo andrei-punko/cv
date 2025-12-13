@@ -68,7 +68,7 @@ Senior Java backend developer with 10+ years experience in the creation of web- 
 
 ### CleverDev Software
 
-#### 2025-Sep - now (2 months)
+#### 2025-Sep - now (4 months)
 
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
@@ -82,12 +82,12 @@ Environment:
 - JUnit, Mockito, Testcontainers
 - Maven
 - Git, Bitbucket
-- IDEA, DBeaver
+- IDEA, DBeaver, Postman
 - Jira, Confluence
 
 Tasks performed:
 
-- Made migration of project from Spring Boot v2 to v3
+- Made migration of project from Spring Boot 2.7 to 3.5
 - Code review
 
 ### Bell Integrator

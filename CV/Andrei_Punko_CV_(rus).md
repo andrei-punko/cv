@@ -68,7 +68,7 @@
 
 ### CleverDev Software
 
-#### Сентябрь 2025 - сейчас (2 месяца)
+#### Сентябрь 2025 - сейчас (4 месяца)
 
 - Должность: Старший инженер-программист
 - Заказчик: Американский стартап в медицинском домене
@@ -82,12 +82,12 @@
 - JUnit, Mockito, Testcontainers
 - Maven
 - Git, Bitbucket
-- IDEA, DBeaver
+- IDEA, DBeaver, Postman
 - Jira, Confluence
 
 Выполнены задачи:
 
-- Миграция проекта со Spring Boot v2 на v3
+- Миграция проекта со Spring Boot 2.7 на 3.5
 - Ревью кода
 
 ### Bell Integrator
