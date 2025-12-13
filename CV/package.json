@@ -1,0 +1,20 @@
+{
+  "name": "cv-pdf-generator",
+  "version": "1.0.0",
+  "description": "Локальная генерация PDF из Markdown файлов CV",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "generate": "node generate-pdf.js",
+    "install-deps": "npm install"
+  },
+  "keywords": [
+    "cv",
+    "pdf",
+    "markdown"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md-to-pdf": "^5.2.3"
+  }
+}

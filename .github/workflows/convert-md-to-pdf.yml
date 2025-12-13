@@ -10,12 +10,16 @@ on:
 jobs:
   convert-to-pdf:
     runs-on: ubuntu-latest
+    container: node:20
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate CV in PDF from source in MD format
-        run: curl -v --data-urlencode "markdown=$(cat CV/Andrei_Punko_CV_\(eng\).md)" -d "css=$(cat CV/style.css)" --output CV/pdf/Andrei_Punko_CV_\(eng\).pdf https://md-to-pdf.fly.dev
+      - name: Install dependencies and generate PDF
+        working-directory: CV
+        run: |
+          npm ci
+          node generate-pdf.js
 
       - name: Commit the PDF (if it changed)
         run: |
