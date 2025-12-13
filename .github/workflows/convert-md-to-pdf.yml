@@ -10,42 +10,16 @@ on:
 jobs:
   convert-to-pdf:
     runs-on: ubuntu-latest
-    container: node:20
 
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install system dependencies for Puppeteer
-        run: |
-          apt-get update -qq
-          apt-get install -y --no-install-recommends \
-            libnss3 \
-            libatk1.0-0 \
-            libatk-bridge2.0-0 \
-            libcups2 \
-            libxkbcommon0 \
-            libxcomposite1 \
-            libxdamage1 \
-            libxrandr2 \
-            libgbm1 \
-            libasound2 \
-            libnspr4 \
-            libxss1 \
-            libgconf-2-4 \
-            libxfixes3 \
-            libx11-6 \
-            libxcb1 \
-            libxext6 \
-            libxi6 \
-            libxrender1 \
-            libxtst6 \
-            libxshmfence1 \
-            libglib2.0-0 \
-            libgtk-3-0 \
-            libdrm2 \
-            libxkbcommon-x11-0
-          apt-get clean
-          rm -rf /var/lib/apt/lists/*
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: CV/package.json
 
       - name: Install dependencies and generate PDF
         working-directory: CV
@@ -55,7 +29,7 @@ jobs:
 
       - name: Commit the PDF (if it changed)
         run: |
-          if [[ `git status --porcelain` ]]; then
+          if [ -n "$(git status --porcelain)" ]; then
             git config --global user.name 'GitHub workflow'
             git config --global user.email 'nowhere@gmail.com'
             git add -A
