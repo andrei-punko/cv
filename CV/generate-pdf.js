@@ -55,7 +55,10 @@ async function generatePDF(mdFile, pdfFile, cssFile) {
                 }
             },
             stylesheet: cssPath,
-            body_class: 'markdown-body'
+            body_class: 'markdown-body',
+            launch_options: {
+                args: ['--no-sandbox', '--disable-setuid-sandbox', '--disable-dev-shm-usage']
+            }
         }
     );
     
