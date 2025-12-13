@@ -31,7 +31,19 @@ jobs:
             libasound2 \
             libnspr4 \
             libxss1 \
-            libgconf-2-4
+            libgconf-2-4 \
+            libxfixes3 \
+            libx11-6 \
+            libxcb1 \
+            libxext6 \
+            libxi6 \
+            libxrender1 \
+            libxtst6 \
+            libxshmfence1 \
+            libglib2.0-0 \
+            libgtk-3-0 \
+            libdrm2 \
+            libxkbcommon-x11-0
           apt-get clean
           rm -rf /var/lib/apt/lists/*
 
