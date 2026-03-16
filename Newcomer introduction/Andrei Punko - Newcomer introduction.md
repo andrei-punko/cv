@@ -17,8 +17,10 @@ Before arriving to a current project, I worked on:
   - Artezio
   - iTechArt
   - Bell Integrator
+  - CleverDev Software
 
   and used Java stack mostly on different projects related to next domains:
+  - Healthcare
   - FinTech
   - Entertainment
   - Blockchain
