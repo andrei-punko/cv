@@ -61,19 +61,19 @@ Senior Java backend developer with 10+ years experience in the creation of web- 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: reading, coding, swimming
-- Not interested in projects related to gambling, forex, casino or other immoral activity
+- Not interested in projects related to forex, casino or other immoral activity
 - Remote work format is preferred
 
 ## Companies / Projects
 
 ### CleverDev Software
 
-#### 2025-Sep - now (4 months)
+#### 2025-Sep - now (7 months)
 
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
 - Project: Development of application for medical insurance
-- Team Size (devs): 9
+- Team Size (devs): 12
 
 Environment:
 
@@ -87,8 +87,10 @@ Environment:
 
 Tasks performed:
 
-- Made migration of project from Spring Boot 2.7 to 3.5
+- REST API design & implementation
+- Made migration of Spring Boot project from latest v2 to latest v3
 - Code review
+- Introduce LocalStack to the project
 
 ### Bell Integrator
 
