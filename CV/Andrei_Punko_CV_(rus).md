@@ -1,6 +1,6 @@
 ﻿# Андрей Пунько
 
-Опытный Java backend разработчик с 10+ лет опыта в создании веб- и распределенных приложений
+Опытный Java backend разработчик с 14+ лет опыта в создании веб- и распределенных приложений
 
 - Основной стек технологий – это Java со стандартным набором фреймворков для backend разработки
 - Имеет опыт работы с Git и CI инструментами
@@ -39,7 +39,7 @@
 
 ## Есть опыт работы с
 
-- Java 6-21 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
+- Java 6–21, также немного: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
@@ -49,12 +49,12 @@
 - Nexus, JFrog
 - Jenkins, TeamCity
 - ActiveMQ, RabbitMQ
-- Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
-- REST API, Microservices
-- AWS, Docker, Openshift, ELK, Grafana
-- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
+- Git, GitLab, Bitbucket, также немного: SVN, Perforce
+- REST API, микросервисы
+- AWS, Docker, OpenShift, ELK, Grafana
+- Принципы и практики разработки ПО, шаблоны проектирования (MVC, MVP, SOLID, DRY, KISS и т.д.)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
-- Jira, Rally, Confluence, Swagger, ClickUp
+- Jira, Rally, ClickUp, Confluence, Swagger
 
 ## Дополнительная информация
 
@@ -175,7 +175,7 @@
 
 ### Epam Systems
 
-#### Сентябрь 2020 - Октябрь 2020 (2 months)
+#### Сентябрь 2020 - Октябрь 2020 (2 месяца)
 
 - Должность: Старший инженер-программист
 - Заказчик: Amazon (Облачный провайдер и разработчик ПО)
@@ -198,7 +198,7 @@
 #### Ноябрь 2019 — Август 2020 (10 месяцев)
 
 - Должность: Старший инженер-программист
-- Заказчик: Epam Systems (Aутсорсинговая компания)
+- Заказчик: Epam Systems (аутсорсинговая компания)
 - Проект: Разработка прототипов приложений, использующих Blockchain, преимущественно с использованием фреймворка Corda DLT для потенциальных заказчиков
 - Размер команды (разработчиков): 3
 
@@ -209,7 +209,7 @@
 - Corda, Hyperledger (Composer, Fabric)
 - H2, PostgreSQL, LevelDB
 - JUnit, Mockito, Spock, Gatling, k6
-- Gradle, Jenkins (with DSL)
+- Gradle, Jenkins (с DSL)
 - Git, Gitlab
 - IDEA
 - Confluence, Swagger
@@ -345,7 +345,7 @@
 
 - Настройка CI
 - Участвовал в проектировании архитектуры приложения
-- Учавствовал в исследовательских активностях
+- Участвовал в исследовательских активностях
 
 ### Epam Systems
 

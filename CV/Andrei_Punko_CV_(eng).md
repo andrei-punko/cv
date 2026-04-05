@@ -1,8 +1,8 @@
 # Andrei Punko
 
-Senior Java backend developer with 10+ years experience in the creation of web- and distributed applications
+Senior Java backend developer with 14+ years of experience building web and distributed applications
 
-- Main technology stack - is Java with a standard set of frameworks for backend development
+- Main technology stack is Java with a standard set of frameworks for backend development
 - Has hands-on experience with Git and CI tools
 - Able to use Unix command line in the scope of usual backend tasks
 - Has knowledge of common algorithms and data structures
@@ -23,7 +23,7 @@ Senior Java backend developer with 10+ years experience in the creation of web- 
 
 ## Education
 
-- Belorussian State University. Faculty of Physics. 5 years of education
+- Belarusian State University. Faculty of Physics. 5 years of education
     - Qualification "Physicist-Researcher"
     - Specialization "Solid-state physics"
 - English - B1 (Intermediate)
@@ -49,7 +49,7 @@ Senior Java backend developer with 10+ years experience in the creation of web- 
 - Nexus, JFrog
 - Jenkins, TeamCity
 - ActiveMQ, RabbitMQ
-- Git, Gitlab, Bitbucket and a bit of: SVN, Perforce
+- Git, GitLab, Bitbucket and a bit of: SVN, Perforce
 - REST API, Microservices
 - AWS, Docker, Openshift, ELK, Grafana
 - Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
@@ -90,7 +90,7 @@ Tasks performed:
 - REST API design & implementation
 - Made migration of Spring Boot project from latest v2 to latest v3
 - Code review
-- Introduce LocalStack to the project
+- Introduced LocalStack to the project
 
 ### Bell Integrator
 
@@ -145,7 +145,7 @@ Tasks performed:
 - Implementation of hybrid tests for comparison results of run migrated Java code and Python code
 - Documentation preparation, knowledge transferring, code review, preparation & showing demo
 - Organization of knowledge transferring sessions
-- Manage team of 3 people
+- Managed a team of 3 people
 
 ### Artezio
 
@@ -154,7 +154,7 @@ Tasks performed:
 - Position: Lead Software Engineer
 - Customer: VTB (one of TOP-3 Russian banks)
 - Project: Development of ATM backend (7 microservices)
-- Team Size (devs): 9 (half year), 3 (half of year)
+- Team Size (devs): 9 (for six months), 3 (for six months)
 
 Environment:
 
@@ -274,7 +274,7 @@ Tasks performed:
 
 - Position: Senior Software Engineer
 - Customer: Epic Games (Developer of games and tools)
-- Project: Play an owner role of one of microservices for Epic Games Social Platform
+- Project: Served as technical owner for one of the microservices on the Epic Games Social Platform
 - Team size (devs): 10+
 
 Environment:

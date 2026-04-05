@@ -1,6 +1,6 @@
 # Andrei Punko - Newcomer introduction
 
-<img src="../photos/Andrei_Punko_photo_formal_2.jpg" alt="drawing" width="175"/>
+<img src="../photos/Andrei_Punko_photo_formal_2.jpg" alt="Portrait of Andrei Punko" width="175"/>
 
 Hello
 
@@ -11,7 +11,7 @@ Before arriving to a current project, I worked on:
 - BSUIR as a scientist / researcher who performed modeling of physical processes
 - Linline as an electronics engineer who participated in construction and tuning of electronics for cosmetology lasers
 - BMC as an electronics engineer and software developer who worked on prototyping of a device for diesel fuels testing
-- As a software engineer for next companies:
+- As a software engineer for the following companies:
   - Epam Systems
   - Godel Technologies
   - Artezio
@@ -19,7 +19,7 @@ Before arriving to a current project, I worked on:
   - Bell Integrator
   - CleverDev Software
 
-  and used Java stack mostly on different projects related to next domains:
+  and used Java stack mostly on different projects related to the following domains:
   - Healthcare
   - FinTech
   - Entertainment
