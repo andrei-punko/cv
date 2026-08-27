@@ -33,8 +33,9 @@
 - Adjust CV [source](CV/Andrei_Punko_CV_(eng).md) in Markdown format
 - Adjust CSS [style](CV/style.css) if needed
 - To generate:
-  - Run [shell script](CV/generate-pdf.sh) if you need to generate CV locally or
-  - Push changes into [repo](https://github.com/andrei-punko/cv) to generate CV using GitHub
-    actions [workflow](.github/workflows/convert-md-to-pdf.yml) and pull new commit with generated PDF
+  - **Recommended:** push changes into [repo](https://github.com/andrei-punko/cv) to generate CV using GitHub
+    Actions [workflow](.github/workflows/convert-md-to-pdf.yml) and pull the new commit with generated PDF
+  - Or run [shell script](CV/generate-pdf.sh) / `node CV/generate-pdf.js` locally
+    (local PDFs will differ from CI: Windows embeds Arial, Ubuntu CI embeds Liberation Sans)
 - Get [generated CV](CV/pdf/Andrei_Punko_CV_(eng).pdf) in PDF format from [CV/pdf](CV/pdf) folder
 </details>

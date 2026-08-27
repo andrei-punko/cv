@@ -2,6 +2,10 @@
 
 Этот скрипт генерирует PDF файлы из Markdown файлов CV с применением CSS стилей.
 
+**Рекомендуемый путь:** правите Markdown/CSS, пушьте в `master` и забирайте PDF из коммита GitHub Actions
+([workflow](../.github/workflows/convert-md-to-pdf.yml)). Локальная генерация даёт другие файлы:
+на Windows Chrome встраивает Arial, на Ubuntu CI — Liberation Sans, плюс в PDF попадают дата и случайный порт.
+
 ## Требования
 
 - Node.js (версия 12 или выше)
