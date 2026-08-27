@@ -60,7 +60,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
-- Likes: reading, coding, swimming
+- Likes: reading, programming, running, swimming, walking
 - Not interested in projects related to forex, casino or some immoral activity
 - Remote work format is preferred, but this can be discussed
 
