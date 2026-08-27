@@ -2,9 +2,9 @@ name: Markdown to PDF
 on:
   push:
     branches: [ master ]
-    paths: # Paths can be used to only trigger actions when you have edited certain files
+    paths:
       - 'CV/*.*'
-      - '.github/workflows/convert-md-to-pdf.yml'
+      - '!CV/README.md'
   workflow_dispatch:
 
 jobs:
