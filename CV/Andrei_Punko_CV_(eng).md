@@ -1,6 +1,6 @@
 # Andrei Punko
 
-Senior Java backend developer with 14+ years of experience building web and distributed applications
+Senior Java backend developer with 15+ years of experience building web and distributed applications
 
 - Main technology stack is Java with a standard set of frameworks for backend development
 - Has hands-on experience with Git and CI tools
@@ -61,14 +61,14 @@ Senior Java backend developer with 14+ years of experience building web and dist
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: reading, coding, swimming
-- Not interested in projects related to forex, casino or other immoral activity
-- Remote work format is preferred
+- Not interested in projects related to forex, casino or some immoral activity
+- Remote work format is preferred, but this can be discussed
 
 ## Companies / Projects
 
 ### CleverDev Software
 
-#### 2025-Sep - now (7 months)
+#### 2025-Sep - 2026-Aug (1 year)
 
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
@@ -77,20 +77,25 @@ Senior Java backend developer with 14+ years of experience building web and dist
 
 Environment:
 
-- Java 21
+- Java 21/25
 - Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
-- JUnit, Mockito, Testcontainers
+- JUnit, Mockito, Testcontainers, Gatling
 - Maven
 - Git, Bitbucket
 - IDEA, DBeaver, Postman
 - Jira, Confluence
+- Python 3 (pandas, numpy, rapidfuzz, postal), libpostal
 
 Tasks performed:
 
 - REST API design & implementation
-- Made migration of Spring Boot project from latest v2 to latest v3
+- Migration of Spring Boot project from latest v2 to latest v3
+- Introduce LocalStack to the project
+- Introduce performance tests to the project
+- Make some optimizations for CI
 - Code review
-- Introduced LocalStack to the project
+- Mentoring
+- Develop application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup AWS VM for processing
 
 ### Bell Integrator
 
@@ -145,7 +150,7 @@ Tasks performed:
 - Implementation of hybrid tests for comparison results of run migrated Java code and Python code
 - Documentation preparation, knowledge transferring, code review, preparation & showing demo
 - Organization of knowledge transferring sessions
-- Managed a team of 3 people
+- Manage a team of 3 people
 
 ### Artezio
 
