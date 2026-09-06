@@ -66,7 +66,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 ## Companies / Projects
 
-### CleverDev Software
+### CleverDev Software company
 
 #### 2025-Sep - 2026-Aug (1 year)
 
@@ -97,7 +97,9 @@ Tasks performed:
 - Mentoring
 - Develop application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup AWS VM for processing
 
-### Bell Integrator
+---
+
+### Bell Integrator company
 
 #### 2023-Jun - 2025-Jan (1 year 7 months)
 
@@ -122,7 +124,9 @@ Tasks performed:
 - Development of new APIs using OpenAPI
 - Code review
 
-### iTechArt
+---
+
+### iTechArt company
 
 #### 2022-Jul - 2023-Jan (7 months)
 
@@ -152,7 +156,9 @@ Tasks performed:
 - Organization of knowledge transferring sessions
 - Manage a team of 3 people
 
-### Artezio
+---
+
+### Artezio company
 
 #### 2021-Apr - 2022-Apr (1 year)
 
@@ -179,7 +185,9 @@ Tasks performed:
 - Documentation preparation, knowledge transferring, code review
 - Participation in performance testing
 
-### Epam Systems
+---
+
+### Epam Systems company
 
 #### 2020-Sep - 2020-Oct (2 months)
 
@@ -327,7 +335,9 @@ Tasks performed:
 - Functional tests implementation
 - Demo preparation & demonstration
 
-### Godel technologies
+---
+
+### Godel technologies company
 
 #### 2016-Nov - 2017-Feb (3 months)
 
@@ -353,7 +363,9 @@ Tasks performed:
 - Involved in architecture design activities
 - Participated in R&D activities
 
-### Epam Systems
+---
+
+### Epam Systems company
 
 #### 2012-Apr - 2016-Nov (4 years 7 months)
 
