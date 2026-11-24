@@ -24,8 +24,8 @@ Senior Java backend developer with 15+ years of experience building web and dist
 ## Education
 
 - Belarusian State University. Faculty of Physics. 5 years of education
-    - Qualification "Physicist-Researcher"
-    - Specialization "Solid-state physics"
+  - Qualification "Physicist-Researcher"
+  - Specialization "Solid-state physics"
 - English - B1+ (Intermediate+)
 
 ## Business domains
@@ -50,9 +50,9 @@ Senior Java backend developer with 15+ years of experience building web and dist
 - Jenkins, TeamCity
 - ActiveMQ, RabbitMQ, Kafka
 - Git, GitLab, Bitbucket and a bit of: SVN, Perforce
-- REST API, Microservices
+- REST API, microservices
 - AWS, Docker, OpenShift, ELK, Grafana
-- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc.)
+- Software Development Principles and Concepts, Design Patterns (MVC, MVP, SOLID, DRY, KISS etc.)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - Jira, Rally, ClickUp, Confluence, Swagger
 - Cursor, Ollama, LM Studio, Pi, OpenCode, Strata, local LLMs
@@ -73,7 +73,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
-- Project: Development of application for medical insurance
+- Project: Development of an application for medical insurance
 - Team size (devs): 12
 
 Environment:
@@ -97,7 +97,7 @@ Tasks performed:
 - Make some optimizations for CI
 - Code review
 - Mentoring
-- Develop application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup VM, provide support during processing
+- Develop an application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup VM, provide support during processing
 
 ---
 
@@ -107,7 +107,7 @@ Tasks performed:
 
 - Position: Senior Software Engineer
 - Customer: Sberbank (largest bank in Russia and Eastern Europe)
-- Project: Development of microservices for backend of bank
+- Project: Development of microservices for the backend of the bank
 - Team size (devs): 6-8
 
 Environment:
@@ -136,7 +136,7 @@ Tasks performed:
 - Customer: Altir (American startup)
 - Project: Migration of Python-based service to Java for Soundful product
 - Team size (devs): 1-3
-- GitHub profile on a customer account: [https://github.com/apunko-altir](https://github.com/apunko-altir)
+- GitHub profile in a customer account: [https://github.com/apunko-altir](https://github.com/apunko-altir)
 
 Environment:
 
@@ -154,8 +154,8 @@ Tasks performed:
 - REST API design & implementation
 - Migration of Python code to Java
 - Implementation of hybrid tests for comparing the results of the migrated Java code and Python code
-- Documentation preparation, knowledge transferring, code review, preparation & showing demo
-- Organization of knowledge transferring sessions
+- Documentation preparation, code review, preparation & showing demo
+- Organization of knowledge transfer sessions series
 - Manage a team of 3 people
 
 ---
@@ -184,7 +184,7 @@ Tasks performed:
 - REST API design & implementation
 - OpenShift services configuration adjustment
 - Setup of logging, monitoring, tracing, audit for services
-- Documentation preparation, knowledge transferring, code review
+- Documentation preparation, knowledge transfer, code review
 - Participation in performance testing
 
 ---
@@ -208,14 +208,14 @@ Environment:
 
 Tasks performed:
 
-- Implement API & tests for it
+- Implement an API and tests for it
 - Development of some CI pipeline parts
 
 #### 2019-Nov - 2020-Aug (10 months)
 
 - Position: Senior Software Engineer
-- Customer: EPAM Systems (outsourcing company)
-- Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
+- Customer: Internal R&D / pre-sales
+- Project: Development of blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
 Environment:
@@ -237,7 +237,7 @@ Tasks performed:
 - Demo preparation & demonstration
 - Documentation preparation
 - Passed Corda certification (private blockchain)
-- Developed several Blockchain-based application prototypes
+- Developed several blockchain-based application prototypes
 
 #### 2019-Apr - 2019-Oct (7 months)
 
@@ -267,9 +267,9 @@ Tasks performed:
 
 - Position: Senior Software Engineer
 - Customer: Microsoft
-- Project: Development of doclet for creation of Java docs using DocFX approach from Microsoft
+- Project: Development of a doclet for creation of Java docs using the DocFX approach from Microsoft
 - Team size (devs): 1
-- GitHub repository on a customer account: [https://github.com/docascode/docfx-doclet](https://github.com/docascode/docfx-doclet)
+- GitHub repository in a customer account: [https://github.com/docascode/docfx-doclet](https://github.com/docascode/docfx-doclet)
 
 Environment:
 
@@ -282,8 +282,8 @@ Environment:
 
 Tasks performed:
 
-- Design application architecture
-- Implementation of doclet for DocFX documentation generation using the modern approach introduced in Java 9
+- Design of application architecture
+- Implementation of a doclet for DocFX documentation generation using the modern approach introduced in Java 9
 
 #### 2018-Jun - 2018-Nov (5 months)
 
@@ -390,7 +390,7 @@ Environment:
 
 Tasks performed:
 
-- Designed & developed set of Quartz jobs
+- Designed & developed a set of Quartz jobs
 - Adapt existing / developed new UI components using GWT
 - Add support for the Chinese language to the existing UI with EN-CN translation ability
 - Developed a tool for batch tokenization of 180 million credit cards
