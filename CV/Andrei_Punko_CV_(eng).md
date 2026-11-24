@@ -46,7 +46,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 - Oracle, PostgreSQL, H2, Redis, Tarantool
 - JUnit, Mockito, JMock, WireMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
-- Nexus, JFrog
+- Nexus, Artifactory
 - Jenkins, TeamCity
 - ActiveMQ, RabbitMQ, Kafka
 - Git, GitLab, Bitbucket and a bit of: SVN, Perforce
@@ -67,7 +67,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 ## Companies / Projects
 
-### CleverDev Software company
+### CleverDev Software
 
 #### 2025-Sep - 2026-Aug (1 year)
 
@@ -86,7 +86,7 @@ Environment:
 - IDEA, DBeaver, Postman
 - Jira, Confluence
 - Python 3 (pandas, numpy, rapidfuzz, postal, pytest), libpostal
-- Cursor AI
+- Cursor
 
 Tasks performed:
 
@@ -101,7 +101,7 @@ Tasks performed:
 
 ---
 
-### Bell Integrator company
+### Bell Integrator
 
 #### 2023-Jun - 2025-Jan (1 year 7 months)
 
@@ -128,7 +128,7 @@ Tasks performed:
 
 ---
 
-### iTechArt company
+### iTechArt
 
 #### 2022-Jul - 2023-Jan (7 months)
 
@@ -160,7 +160,7 @@ Tasks performed:
 
 ---
 
-### Artezio company
+### Artezio
 
 #### 2021-Apr - 2022-Apr (1 year)
 
@@ -189,7 +189,7 @@ Tasks performed:
 
 ---
 
-### Epam Systems company
+### EPAM Systems
 
 #### 2020-Sep - 2020-Oct (2 months)
 
@@ -214,7 +214,7 @@ Tasks performed:
 #### 2019-Nov - 2020-Aug (10 months)
 
 - Position: Senior Software Engineer
-- Customer: Epam Systems (outsourcing company)
+- Customer: EPAM Systems (outsourcing company)
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
@@ -267,7 +267,7 @@ Tasks performed:
 
 - Position: Senior Software Engineer
 - Customer: Microsoft
-- Project: Development of doclet for creation of Java docs using DocFx approach from Microsoft
+- Project: Development of doclet for creation of Java docs using DocFX approach from Microsoft
 - Team size (devs): 1
 - GitHub repository on a customer account: [https://github.com/docascode/docfx-doclet](https://github.com/docascode/docfx-doclet)
 
@@ -283,7 +283,7 @@ Environment:
 Tasks performed:
 
 - Design application architecture
-- Implementation of doclet for DocFx documentation generation using the modern approach introduced in Java 9
+- Implementation of doclet for DocFX documentation generation using the modern approach introduced in Java 9
 
 #### 2018-Jun - 2018-Nov (5 months)
 
@@ -339,7 +339,7 @@ Tasks performed:
 
 ---
 
-### Godel technologies company
+### Godel Technologies
 
 #### 2016-Nov - 2017-Feb (3 months)
 
@@ -367,7 +367,7 @@ Tasks performed:
 
 ---
 
-### Epam Systems company
+### EPAM Systems
 
 #### 2012-Apr - 2016-Nov (4 years 7 months)
 

@@ -46,7 +46,7 @@
 - Oracle, PostgreSQL, H2, Redis, Tarantool
 - JUnit, Mockito, JMock, WireMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
-- Nexus, JFrog
+- Nexus, Artifactory
 - Jenkins, TeamCity
 - ActiveMQ, RabbitMQ, Kafka
 - Git, GitLab, Bitbucket, также немного: SVN, Perforce
@@ -55,7 +55,7 @@
 - Принципы и практики разработки ПО, шаблоны проектирования (MVC, MVP, SOLID, DRY, KISS и т.д.)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - Jira, Rally, ClickUp, Confluence, Swagger
-- Cursor, Ollama, LM Studio, Pi, OpenCode, Strata, local LLMs
+- Cursor, Ollama, LM Studio, Pi, OpenCode, Strata, локальные LLM
 
 ## Дополнительная информация
 
@@ -67,7 +67,7 @@
 
 ## Компании / Проекты
 
-### Компания CleverDev Software
+### CleverDev Software
 
 #### Сентябрь 2025 - Август 2026 (1 год)
 
@@ -86,7 +86,7 @@
 - IDEA, DBeaver, Postman
 - Jira, Confluence
 - Python 3 (pandas, numpy, rapidfuzz, postal, pytest), libpostal
-- Cursor AI
+- Cursor
 
 Выполнены задачи:
 
@@ -97,11 +97,11 @@
 - Оптимизация CI
 - Ревью кода
 - Наставничество
-- Разработка прототипа приложения для агрегации и анализа публичных медицинских данных (NPPES, FHIR). Настройка VM для обработки данных, сопровождение во время обработки
+- Разработка прототипа приложения для агрегации и анализа публичных медицинских данных (NPPES, FHIR). Настройка VM для обработки данных, сопровождение
 
 ---
 
-### Компания Bell Integrator
+### Bell Integrator
 
 #### Июнь 2023 - Январь 2025 (1 год 7 месяцев)
 
@@ -128,7 +128,7 @@
 
 ---
 
-### Компания iTechArt
+### iTechArt
 
 #### Июль 2022 - Январь 2023 (7 месяцев)
 
@@ -159,7 +159,7 @@
 
 ---
 
-### Компания Artezio
+### Artezio
 
 #### Апрель 2021 - Апрель 2022 (1 год)
 
@@ -188,7 +188,7 @@
 
 ---
 
-### Компания Epam Systems
+### EPAM Systems
 
 #### Сентябрь 2020 - Октябрь 2020 (2 месяца)
 
@@ -213,7 +213,7 @@
 #### Ноябрь 2019 - Август 2020 (10 месяцев)
 
 - Должность: Старший инженер-программист
-- Заказчик: Epam Systems (аутсорсинговая компания)
+- Заказчик: EPAM Systems (аутсорсинговая компания)
 - Проект: Разработка прототипов приложений, использующих Blockchain, преимущественно с использованием фреймворка Corda DLT для потенциальных заказчиков
 - Размер команды (разработчиков): 3
 
@@ -266,7 +266,7 @@
 
 - Должность: Старший инженер-программист
 - Заказчик: Microsoft (Разработчик ПО)
-- Проект: Разработка doclet-а для генерации Java-документации с использованием технологии DocFx от Microsoft
+- Проект: Разработка doclet-а для генерации Java-документации с использованием технологии DocFX от Microsoft
 - Размер команды (разработчиков): 1
 - GitHub репозиторий в аккаунте заказчика: [https://github.com/docascode/docfx-doclet](https://github.com/docascode/docfx-doclet)
 
@@ -282,7 +282,7 @@
 Выполнены задачи:
 
 - Проектирование архитектуры приложения
-- Реализация doclet-а для генерации DocFx документации с использованием современного подхода, добавленного в Java 9
+- Реализация doclet-а для генерации DocFX документации с использованием современного подхода, добавленного в Java 9
 
 #### Июнь 2018 - Ноябрь 2018 (5 месяцев)
 
@@ -338,7 +338,7 @@
 
 ---
 
-### Компания Godel technologies
+### Godel Technologies
 
 #### Ноябрь 2016 - Февраль 2017 (3 месяца)
 
@@ -366,7 +366,7 @@
 
 ---
 
-### Компания Epam Systems
+### EPAM Systems
 
 #### Апрель 2012 - Ноябрь 2016 (4 года 7 месяцев)
 
