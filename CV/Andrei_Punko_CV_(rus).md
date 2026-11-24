@@ -1,10 +1,10 @@
 ﻿# Андрей Пунько
 
-Опытный Java backend разработчик с 15+ лет опыта в создании веб- и распределенных приложений
+Опытный Java бэкенд-разработчик с 15+ лет опыта в создании веб- и распределенных приложений
 
-- Основной стек технологий – это Java со стандартным набором фреймворков для backend разработки
+- Основной стек технологий – это Java со стандартным набором фреймворков для бэкенд-разработки
 - Имеет опыт работы с Git и CI инструментами
-- Способен использовать командную строку Unix для решения типовых backend задач
+- Способен использовать командную строку Unix для решения типовых бэкенд-задач
 - Обладает знаниями распространенных алгоритмов и структур данных
 - Может покрывать код широким спектром тестов: модульными / интеграционными / функциональными / нагрузочными
 - Имеет опыт в математике, физике и численном моделировании
@@ -19,16 +19,16 @@
 
 - GitHub: [andrei-punko](https://github.com/andrei-punko)
 - YouTube: [@andd3dfx](https://www.youtube.com/@andd3dfx)
-- Это CV: [Andrei_Punko_CV_(rus).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf)
+- Это резюме: [Andrei_Punko_CV_(rus).pdf](https://raw.githubusercontent.com/andrei-punko/cv/master/CV/pdf/Andrei_Punko_CV_(rus).pdf)
 
 ## Образование
 
 - Белорусский государственный университет. Физический факультет. 5 лет обучения
   - Квалификация "Физик-исследователь"
   - Специализация "Физика твердого тела"
-- Английский - B1 (Intermediate)
+- Английский - B1+ (Intermediate+)
 
-## Работал в бизнес-доменах
+## Бизнес-домены
 
 - Медицина
 - ФинТех
@@ -40,29 +40,30 @@
 ## Есть опыт работы с
 
 - Java 6–21, также немного: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
-- Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
-- JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
+- Spring (Core, Boot, Data, REST, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
+- JPA, Hibernate, iBATIS, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
 - Oracle, PostgreSQL, H2, Redis, Tarantool
-- JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
+- JUnit, Mockito, JMock, WireMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
-- ActiveMQ, RabbitMQ
+- ActiveMQ, RabbitMQ, Kafka
 - Git, GitLab, Bitbucket, также немного: SVN, Perforce
 - REST API, микросервисы
 - AWS, Docker, OpenShift, ELK, Grafana
 - Принципы и практики разработки ПО, шаблоны проектирования (MVC, MVP, SOLID, DRY, KISS и т.д.)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - Jira, Rally, ClickUp, Confluence, Swagger
+- Cursor, Ollama, LM Studio, Pi, OpenCode, Strata, local LLMs
 
 ## Дополнительная информация
 
 - Локация: Минск, Беларусь
 - Часовой пояс: GMT+3
 - Интересы: чтение, программирование, бег, плавание, ходьба
-- Не интересны проекты, связанные с forex, казино или другой аморальной активностью
-- Удаленный формат работы предпочтителен, но это обсуждаемый вопрос
+- Не интересны проекты, связанные с Forex, казино или другой неэтичной активностью
+- Удаленный формат работы предпочтителен, но это можно обсудить
 
 ## Компании / Проекты
 
@@ -78,40 +79,41 @@
 Фреймворки/технологии:
 
 - Java 21/25
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
 - JUnit, Mockito, Testcontainers, Gatling
 - Maven
 - Git, Bitbucket
 - IDEA, DBeaver, Postman
 - Jira, Confluence
-- Python 3 (pandas, numpy, rapidfuzz, postal), libpostal
+- Python 3 (pandas, numpy, rapidfuzz, postal, pytest), libpostal
+- Cursor AI
 
 Выполнены задачи:
 
 - Проектирование и реализация REST API
-- Миграция Spring Boot проекта c последней v2 на последнюю v3
+- Миграция Spring Boot проекта с последней v2 на последнюю v3
 - Добавление LocalStack в проект
 - Добавление тестов производительности в проект
 - Оптимизация CI
 - Ревью кода
-- Менторинг
-- Разработка прототипа по агрегации и анализу публичных медицинских данных (NPPES, FHIR). Настройка AWS VM для обработки данных
+- Наставничество
+- Разработка прототипа приложения для агрегации и анализа публичных медицинских данных (NPPES, FHIR). Настройка VM для обработки данных, сопровождение во время обработки
 
 ---
 
 ### Компания Bell Integrator
 
-#### Июнь 2023 – Январь 2025 (1 год 7 месяцев)
+#### Июнь 2023 - Январь 2025 (1 год 7 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: Сбербанк (крупнейший банк в России и Восточной Европе)
-- Проект: Разработка микросервисов для backend-а банка
+- Проект: Разработка микросервисов для бэкенда банка
 - Размер команды (разработчиков): 6-8
 
 Фреймворки/технологии:
 
 - Java 15/17
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
 - Git, Bitbucket
@@ -128,7 +130,7 @@
 
 ### Компания iTechArt
 
-#### Июль 2022 – Январь 2023 (7 месяцев)
+#### Июль 2022 - Январь 2023 (7 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: Altir (Американский стартап)
@@ -139,7 +141,7 @@
 Фреймворки/технологии:
 
 - Java 11, Python 3
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers, JMeter
 - Gradle, Jenkins
 - AWS S3
@@ -159,18 +161,18 @@
 
 ### Компания Artezio
 
-#### Апрель 2021 — Апрель 2022 (1 год)
+#### Апрель 2021 - Апрель 2022 (1 год)
 
 - Должность: Ведущий инженер-программист
 - Заказчик: ВТБ (один из топ-3 российских банков)
-- Проект: Разработка backend-а для банкоматов (7 микросервисов)
+- Проект: Разработка бэкенда для банкоматов (7 микросервисов)
 - Размер команды (разработчиков): 9 (полгода), 3 (полгода)
 
 Фреймворки/технологии:
 
 - Java 11, Lua
-- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
-- JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
+- Spring (Boot, REST, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
+- JUnit, Mockito, WireMock, Testcontainers, JMeter, SonarQube
 - Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - IDEA, Postman, Git, Bitbucket
@@ -208,7 +210,7 @@
 - Реализовано API и тесты для него
 - Разработаны некоторые части CI пайплайна
 
-#### Ноябрь 2019 — Август 2020 (10 месяцев)
+#### Ноябрь 2019 - Август 2020 (10 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: Epam Systems (аутсорсинговая компания)
@@ -218,12 +220,12 @@
 Фреймворки/технологии:
 
 - Java 8, Groovy, Go
-- Spring (Core, Boot, Rest, Data), Lombok, MapStruct
+- Spring (Core, Boot, REST, Data), Lombok, MapStruct
 - Corda, Hyperledger (Composer, Fabric)
 - H2, PostgreSQL, LevelDB
 - JUnit, Mockito, Spock, Gatling, k6
 - Gradle, Jenkins (с DSL)
-- Git, Gitlab
+- Git, GitLab
 - IDEA
 - Confluence, Swagger
 
@@ -236,7 +238,7 @@
 - Прохождение сертификации по разработке на Corda DLT (приватный блокчейн)
 - Разработано несколько прототипов приложений с использованием технологии блокчейн
 
-#### Апрель 2019 — Октябрь 2019 (7 месяцев)
+#### Апрель 2019 - Октябрь 2019 (7 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: QVC (Немецкий ретейлер / TV-магазин)
@@ -246,7 +248,7 @@
 Фреймворки/технологии:
 
 - Java 6
-- Jackson, iBatis, JiBX, Spring (Core, Rest)
+- Jackson, iBATIS, JiBX, Spring (Core, REST)
 - JUnit, Mockito
 - Oracle Siebel CRM, IBM WebSphere
 - Maven, Jenkins
@@ -260,7 +262,7 @@
 - Реализованы batch job-ы с требуемой бизнес-логикой
 - Подготовка документации
 
-#### Ноябрь 2018 — Февраль 2019 (4 месяца)
+#### Ноябрь 2018 - Февраль 2019 (4 месяца)
 
 - Должность: Старший инженер-программист
 - Заказчик: Microsoft (Разработчик ПО)
@@ -272,7 +274,7 @@
 
 - Java 11
 - Jackson
-- JUnit, Mockito, Jacoco
+- JUnit, Mockito, JaCoCo
 - Maven
 - Git, GitHub
 - IDEA
@@ -282,11 +284,11 @@
 - Проектирование архитектуры приложения
 - Реализация doclet-а для генерации DocFx документации с использованием современного подхода, добавленного в Java 9
 
-#### Июнь 2018 — Ноябрь 2018 (5 месяцев)
+#### Июнь 2018 - Ноябрь 2018 (5 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: Epic Games (Разработчик игр и инструментов для их создания)
-- Проект: Исполнял роль owner-а в одном из микросервисов социальной платформы игроков для компании Epic Games
+- Проект: Исполнял роль владельца (owner) одного из микросервисов социальной платформы игроков для компании Epic Games
 - Размер команды (разработчиков): 10+
 
 Фреймворки/технологии:
@@ -295,7 +297,7 @@
 - Spring, JPA, Hibernate, JAX-RS
 - JUnit, Mockito, Gatling
 - PostgreSQL, Redis
-- AWS (EC2, Route53, Elastic, Aurora, CloudWatch)
+- AWS (EC2, Route 53, ElastiCache, Aurora, CloudWatch)
 - Git, GitHub, Perforce
 - Gradle, TeamCity
 - IDEA
@@ -307,7 +309,7 @@
 - Проектирование и реализация Cursor API (клиентский курсор как альтернатива pagination)
 - Участвовал в миграции системы контроля версий из Perforce в Git и настройке CI после этого (jobs, pipelines, notifications)
 
-#### Июнь 2017 — Февраль 2018 (8 месяцев)
+#### Июнь 2017 - Февраль 2018 (8 месяцев)
 
 - Должность: Старший инженер-программист
 - Заказчик: Intercontinental Hotels Group (Мировая сеть отелей)
@@ -317,7 +319,7 @@
 Фреймворки/технологии:
 
 - Java 8, Groovy
-- Spring (Core, Boot, Rest, Data, Security), Akka, JPA, Hibernate, GWT
+- Spring (Core, Boot, REST, Data, Security), Akka, JPA, Hibernate, GWT
 - JUnit, Mockito, JMock, Spock
 - Oracle, Liquibase, Flyway
 - ActiveMQ, RabbitMQ
@@ -329,7 +331,7 @@
 Выполнены задачи:
 
 - Проектирование и реализация REST API
-- Разработка инструмента для проведения миграции пользователей из внешней системы в существующую систему лояльности 
+- Разработка инструмента для проведения миграции участников из внешней системы в существующую систему лояльности
   с выдачей им бонусов, изменений статуса и т.п. согласно бизнес-правилам
 - Написание функциональных тестов
 - Подготовка и проведение демо
@@ -338,11 +340,11 @@
 
 ### Компания Godel technologies
 
-#### Ноябрь 2016 — Февраль 2017 (3 месяца)
+#### Ноябрь 2016 - Февраль 2017 (3 месяца)
 
 - Должность: Старший инженер-программист
 - Заказчик: Extra Energy (Британский поставщик электроэнергии)
-- Проект: Разработка сервиса сбора статистики с электрических счетчиков для поставщика электроэнергии
+- Проект: Разработка сервиса сбора статистики с умных счётчиков электроэнергии для поставщика электроэнергии
 - Размер команды (разработчиков): 3
 
 Фреймворки/технологии:
@@ -366,7 +368,7 @@
 
 ### Компания Epam Systems
 
-#### Апрель 2012 — Ноябрь 2016 (4 года 7 месяцев)
+#### Апрель 2012 - Ноябрь 2016 (4 года 7 месяцев)
 
 - Должность: Программист → Инженер-программист → Старший инженер-программист
 - Заказчик: Intercontinental Hotels Group (Мировая сеть отелей)
@@ -389,12 +391,12 @@
 
 - Проектирование и разработка набора Quartz job-ов
 - Адаптация существующих / разработка новых UI компонентов с использованием GWT
-- Добавление поддержки китайского языка в существующем UI с возможностью перевода с английского
+- Добавление поддержки китайского языка в существующий UI с возможностью перевода с английского на китайский
 - Разработка инструмента для пакетной токенизации 180 млн кредитных карт
 - Подготовка и проведение демо
 - Наставничество и поддержка новых членов команды
 
-#### Октябрь 2011 — Апрель 2012 (6 месяцев)
+#### Октябрь 2011 - Апрель 2012 (6 месяцев)
 
 - Должность: Программист
 - Заказчик: -
@@ -412,4 +414,4 @@
 
 Выполнены задачи:
 
-- Реализация 10 типовых задач в Java-лаборатории и бонусной задачи - сетевой игры "Реверси"
+- Реализация 10 типовых задач в Java-лаборатории и бонусной задачи — сетевой игры "Реверси"

@@ -26,9 +26,9 @@ Senior Java backend developer with 15+ years of experience building web and dist
 - Belarusian State University. Faculty of Physics. 5 years of education
     - Qualification "Physicist-Researcher"
     - Specialization "Solid-state physics"
-- English - B1 (Intermediate)
+- English - B1+ (Intermediate+)
 
-## Worked in business-domains
+## Business domains
 
 - Healthcare
 - FinTech
@@ -40,28 +40,29 @@ Senior Java backend developer with 15+ years of experience building web and dist
 ## Has experience with
 
 - Java 6-21 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
-- Spring (Core, Boot, Data, Rest, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
-- JPA, Hibernate, iBatis, Liquibase, Flyway, SQL
+- Spring (Core, Boot, Data, REST, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
+- JPA, Hibernate, iBATIS, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
 - Oracle, PostgreSQL, H2, Redis, Tarantool
-- JUnit, Mockito, JMock, Wiremock, Testcontainers, Spock, Gatling, k6
+- JUnit, Mockito, JMock, WireMock, Testcontainers, Spock, Gatling, k6
 - Maven, Gradle
 - Nexus, JFrog
 - Jenkins, TeamCity
-- ActiveMQ, RabbitMQ
+- ActiveMQ, RabbitMQ, Kafka
 - Git, GitLab, Bitbucket and a bit of: SVN, Perforce
 - REST API, Microservices
-- AWS, Docker, Openshift, ELK, Grafana
-- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc)
+- AWS, Docker, OpenShift, ELK, Grafana
+- Software Development Principles and Concepts, Design Patterns & Principles (MVC, MVP, SOLID, DRY, KISS etc.)
 - IDEA, Postman, SoapUI, DBeaver, SQL Developer
 - Jira, Rally, ClickUp, Confluence, Swagger
+- Cursor, Ollama, LM Studio, Pi, OpenCode, Strata, local LLMs
 
 ## Additional information
 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
 - Likes: reading, programming, running, swimming, walking
-- Not interested in projects related to forex, casino or some immoral activity
+- Not interested in projects related to Forex, casinos or other immoral activity
 - Remote work format is preferred, but this can be discussed
 
 ## Companies / Projects
@@ -73,29 +74,30 @@ Senior Java backend developer with 15+ years of experience building web and dist
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
 - Project: Development of application for medical insurance
-- Team Size (devs): 12
+- Team size (devs): 12
 
 Environment:
 
 - Java 21/25
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Flyway
 - JUnit, Mockito, Testcontainers, Gatling
 - Maven
 - Git, Bitbucket
 - IDEA, DBeaver, Postman
 - Jira, Confluence
-- Python 3 (pandas, numpy, rapidfuzz, postal), libpostal
+- Python 3 (pandas, numpy, rapidfuzz, postal, pytest), libpostal
+- Cursor AI
 
 Tasks performed:
 
 - REST API design & implementation
-- Migration of Spring Boot project from latest v2 to latest v3
+- Migration of Spring Boot project from the latest v2 to the latest v3
 - Introduce LocalStack to the project
 - Introduce performance tests to the project
 - Make some optimizations for CI
 - Code review
 - Mentoring
-- Develop application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup AWS VM for processing
+- Develop application prototype for aggregation and analysis of public healthcare data (NPPES, FHIR). Setup VM, provide support during processing
 
 ---
 
@@ -106,12 +108,12 @@ Tasks performed:
 - Position: Senior Software Engineer
 - Customer: Sberbank (largest bank in Russia and Eastern Europe)
 - Project: Development of microservices for backend of bank
-- Team Size (devs): 6-8
+- Team size (devs): 6-8
 
 Environment:
 
 - Java 15/17
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers
 - Gradle, Jenkins
 - Git, Bitbucket
@@ -133,13 +135,13 @@ Tasks performed:
 - Position: Senior Software Engineer
 - Customer: Altir (American startup)
 - Project: Migration of Python-based service to Java for Soundful product
-- Team Size (devs): 1-3
+- Team size (devs): 1-3
 - GitHub profile on a customer account: [https://github.com/apunko-altir](https://github.com/apunko-altir)
 
 Environment:
 
 - Java 11, Python 3
-- Spring (Boot, Rest, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
+- Spring (Boot, REST, Data), Lombok, MapStruct, Docker, PostgreSQL, Liquibase
 - JUnit, Mockito, Testcontainers, JMeter
 - Gradle, Jenkins
 - AWS S3
@@ -151,7 +153,7 @@ Tasks performed:
 
 - REST API design & implementation
 - Migration of Python code to Java
-- Implementation of hybrid tests for comparison results of run migrated Java code and Python code
+- Implementation of hybrid tests for comparing the results of the migrated Java code and Python code
 - Documentation preparation, knowledge transferring, code review, preparation & showing demo
 - Organization of knowledge transferring sessions
 - Manage a team of 3 people
@@ -165,13 +167,13 @@ Tasks performed:
 - Position: Lead Software Engineer
 - Customer: VTB (one of TOP-3 Russian banks)
 - Project: Development of ATM backend (7 microservices)
-- Team Size (devs): 9 (for six months), 3 (for six months)
+- Team size (devs): 9 (for six months), 3 (for six months)
 
 Environment:
 
 - Java 11, Lua
-- Spring (Boot, Rest, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
-- JUnit, Mockito, Wiremock, Testcontainers, JMeter, Sonar
+- Spring (Boot, REST, Data), Lombok, MapStruct, OkHttp, Tarantool, Docker
+- JUnit, Mockito, WireMock, Testcontainers, JMeter, SonarQube
 - Gradle (composite build), TeamCity
 - OpenShift, Grafana, Prometheus, Fluent Bit, Jaeger
 - IDEA, Postman, Git, Bitbucket
@@ -212,19 +214,19 @@ Tasks performed:
 #### 2019-Nov - 2020-Aug (10 months)
 
 - Position: Senior Software Engineer
-- Customer: Epam Systems (Outsource company)
+- Customer: Epam Systems (outsourcing company)
 - Project: Development of Blockchain-based app prototypes, based on Corda DLT for potential customers
 - Team size (devs): 3
 
 Environment:
 
 - Java 8, Groovy, Go
-- Spring (Core, Boot, Rest, Data), Lombok, MapStruct
+- Spring (Core, Boot, REST, Data), Lombok, MapStruct
 - Corda, Hyperledger (Composer, Fabric)
 - H2, PostgreSQL, LevelDB
 - JUnit, Mockito, Spock, Gatling, k6
 - Gradle, Jenkins (with DSL)
-- Git, Gitlab
+- Git, GitLab
 - IDEA
 - Confluence, Swagger
 
@@ -247,7 +249,7 @@ Tasks performed:
 Environment:
 
 - Java 6
-- Jackson, iBatis, JiBX, Spring (Core, Rest)
+- Jackson, iBATIS, JiBX, Spring (Core, REST)
 - JUnit, Mockito
 - Oracle Siebel CRM, IBM WebSphere
 - Maven, Jenkins
@@ -273,7 +275,7 @@ Environment:
 
 - Java 11
 - Jackson
-- JUnit, Mockito, Jacoco
+- JUnit, Mockito, JaCoCo
 - Maven
 - Git, GitHub
 - IDEA
@@ -281,7 +283,7 @@ Environment:
 Tasks performed:
 
 - Design application architecture
-- Implementation of doclet for DocFx documentation generation using modern approach introduced in Java 9
+- Implementation of doclet for DocFx documentation generation using the modern approach introduced in Java 9
 
 #### 2018-Jun - 2018-Nov (5 months)
 
@@ -296,7 +298,7 @@ Environment:
 - Spring, JPA, Hibernate, JAX-RS
 - JUnit, Mockito, Gatling
 - PostgreSQL, Redis
-- AWS (EC2, Route53, Elastic, Aurora, CloudWatch)
+- AWS (EC2, Route 53, ElastiCache, Aurora, CloudWatch)
 - Git, GitHub, Perforce
 - Gradle, TeamCity
 - IDEA
@@ -306,7 +308,7 @@ Tasks performed:
 
 - Made DB performance optimizations
 - Design & implement Cursor API (client cursor as alternative to pagination)
-- Migration VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
+- Migration of the VCS from Perforce to Git. Setup of CI for that (jobs, pipelines, notifications)
 
 #### 2017-Jun - 2018-Feb (8 months)
 
@@ -318,7 +320,7 @@ Tasks performed:
 Environment:
 
 - Java 8, Groovy
-- Spring (Core, Boot, Rest, Data, Security), Akka, JPA, Hibernate, GWT
+- Spring (Core, Boot, REST, Data, Security), Akka, JPA, Hibernate, GWT
 - JUnit, Mockito, JMock, Spock
 - Oracle, Liquibase, Flyway
 - ActiveMQ, RabbitMQ
@@ -330,8 +332,8 @@ Environment:
 Tasks performed:
 
 - Design and implement REST API
-- Development of tool to perform members migration from an external system into an existing loyalty system
-  with applying to them benefits, tier-level changes, etc. according to business rules
+- Development of a tool to perform member migration from an external system into an existing loyalty system,
+  applying benefits, tier-level changes, etc. to them according to business rules
 - Functional tests implementation
 - Demo preparation & demonstration
 
@@ -343,8 +345,8 @@ Tasks performed:
 
 - Position: Java Developer
 - Customer: Extra Energy (British energy provider)
-- Project: Development statistics collector from smart electric counters for European energy supply provider
-- Team Size (devs): 3
+- Project: Development of a statistics collector for smart electricity meters for a European energy supply provider
+- Team size (devs): 3
 
 Environment:
 
@@ -372,7 +374,7 @@ Tasks performed:
 - Position: (Junior -> Middle -> Senior) Software Engineer
 - Customer: Intercontinental Hotels Group (Worldwide hotel network)
 - Project: Development of a loyalty system for hotel network
-- Team Size (devs): 40+
+- Team size (devs): 40+
 
 Environment:
 
@@ -390,8 +392,8 @@ Tasks performed:
 
 - Designed & developed set of Quartz jobs
 - Adapt existing / developed new UI components using GWT
-- Add support of Chinese language to the existing UI with EN-CN translation ability
-- Developed tool for batch tokenization of 180 million credit cards
+- Add support for the Chinese language to the existing UI with EN-CN translation ability
+- Developed a tool for batch tokenization of 180 million credit cards
 - Demo preparation & demonstration
 - Mentoring & support of new team members
 
@@ -400,7 +402,7 @@ Tasks performed:
 - Position: Junior Software Engineer
 - Customer: -
 - Project: Studying in Java laboratory
-- Team Size (devs): 1
+- Team size (devs): 1
 
 Environment:
 
@@ -413,4 +415,4 @@ Environment:
 
 Tasks performed:
 
-- Implemented 10 typical Java-lab tasks and bonus task - network game "Reversi"
+- Implemented 10 typical Java-lab tasks and bonus task — network game "Reversi"
