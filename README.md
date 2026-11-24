@@ -3,10 +3,10 @@
 
 ## CV
 
-- Eng
-  - In [PDF](CV/pdf/Andrei_Punko_CV_(eng).pdf) or [Markdown](CV/Andrei_Punko_CV_(eng).md) format
-- Rus
-  - В [PDF](CV/pdf/Andrei_Punko_CV_(rus).pdf) или [Markdown](CV/Andrei_Punko_CV_(rus).md) формате
+|     | PDF                                                           | Markdown                                                |
+|-----|---------------------------------------------------------------|---------------------------------------------------------|
+| Eng | [Andrei_Punko_CV_(eng).pdf](CV/pdf/Andrei_Punko_CV_(eng).pdf) | [Andrei_Punko_CV_(eng).md](CV/Andrei_Punko_CV_(eng).md) |
+| Rus | [Andrei_Punko_CV_(rus).pdf](CV/pdf/Andrei_Punko_CV_(rus).pdf) | [Andrei_Punko_CV_(rus).md](CV/Andrei_Punko_CV_(rus).md) |
 
 ## Communication with recruiter
 [Ответы на типичные вопросы рекрутера](QnA/Ответы%20на%20типичные%20вопросы%20рекрутера.md)
