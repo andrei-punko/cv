@@ -61,7 +61,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 - Location: Minsk, Belarus
 - Timezone: GMT+3
-- Likes: reading, programming, running, swimming, walking
+- Likes: [reading](https://github.com/andrei-punko/books-reading-tracker), [programming](https://github.com/andrei-punko), [running, swimming, walking, cross-country skiing](https://connect.garmin.com/app/profile/754a6849-312d-4bcc-bda2-631f5ebe0477)
 - Not interested in projects related to Forex, casinos or other immoral activity
 - Remote work format is preferred, but this can be discussed
 
