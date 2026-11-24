@@ -39,7 +39,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 ## Has experience with
 
-- Java 6-21 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
+- Java 6-25 and a bit of: Groovy, Kotlin, Go, Lua, C, Python, JavaScript
 - Spring (Core, Boot, Data, REST, AI), Jackson, MapStruct, Lombok, Akka, Quartz, Camel
 - JPA, Hibernate, iBATIS, Liquibase, Flyway, SQL
 - JSP, Servlets, Struts, JSF
@@ -69,7 +69,7 @@ Senior Java backend developer with 15+ years of experience building web and dist
 
 ### CleverDev Software
 
-#### 2025-Sep - 2026-Aug (1 year)
+#### 2025-Sep - 2026-Sep (1 year)
 
 - Position: Senior Software Engineer
 - Customer: American startup in healthcare domain
